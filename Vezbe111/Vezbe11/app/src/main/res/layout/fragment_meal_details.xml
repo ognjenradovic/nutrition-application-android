@@ -1,0 +1,201 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/outerFragmentFcv1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_500">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#000000"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/black"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- Existing views -->
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="30sp"
+                android:text="Meal details"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/image_view1"
+                android:layout_width="match_parent"
+                android:layout_height="196dp"
+                android:scaleType="centerCrop" />
+
+            <!-- Existing views -->
+
+            <TextView
+                android:id="@+id/nameTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <!-- Existing views -->
+
+            <!-- Ingredients Table -->
+
+            <!-- Existing views -->
+            <TextView
+                android:id="@+id/areaLabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Area" />
+
+            <TextView
+                android:id="@+id/areaTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/drinkAlternateTextViewLabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Drink Alternate" />
+
+            <TextView
+                android:id="@+id/drinkAlternateTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/instructionsLabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Instructions" />
+
+            <TextView
+                android:id="@+id/instructionsTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/tagsLabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Tags" />
+
+            <TextView
+                android:id="@+id/tagsTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/ytLabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Youtube link" />
+
+            <TextView
+                android:id="@+id/youtubeTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/sourceLabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Source" />
+
+            <TextView
+                android:id="@+id/sourceTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/creativeCommonsConfirmedTextViewLabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="creativeCommonsConfirmed" />
+
+            <TextView
+                android:id="@+id/creativeCommonsConfirmedTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/dateModifiedLabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Date modified" />
+
+            <TextView
+                android:id="@+id/dateModifiedTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <!-- Existing views -->
+            <TextView
+                android:id="@+id/ingTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ingredients" />
+
+            <TableLayout
+                android:id="@+id/ingredientsTable"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:background="#000000" />
+
+            <TextView
+                android:id="@+id/descriptionLable"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Description" />
+
+            <TextView
+                android:id="@+id/descriptionTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/dateTextLabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Scheduled cooking date" />
+            <TextView
+                android:id="@+id/dateTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/mealTypeLabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Meal type" />
+            <TextView
+                android:id="@+id/mealTypeTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/saveButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="16dp"
+            android:text="Save Meal" />
+    </LinearLayout>
+
+</ScrollView>
+
+
+
+

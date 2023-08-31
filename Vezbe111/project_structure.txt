@@ -1,0 +1,2289 @@
+Folder PATH listing
+Volume serial number is 8A50-4D33
+C:.
+|   project_structure.txt
+|   
+\---Vezbe11
+    |   .gitignore
+    |   build.gradle
+    |   gradle.properties
+    |   gradlew
+    |   gradlew.bat
+    |   local.properties
+    |   settings.gradle
+    |   
+    +---.gradle
+    |   +---6.5
+    |   |   |   gc.properties
+    |   |   |   
+    |   |   +---executionHistory
+    |   |   |       executionHistory.bin
+    |   |   |       executionHistory.lock
+    |   |   |       
+    |   |   +---fileChanges
+    |   |   |       last-build.bin
+    |   |   |       
+    |   |   +---fileContent
+    |   |   |       fileContent.lock
+    |   |   |       
+    |   |   +---fileHashes
+    |   |   |       fileHashes.bin
+    |   |   |       fileHashes.lock
+    |   |   |       resourceHashesCache.bin
+    |   |   |       
+    |   |   +---javaCompile
+    |   |   |       classAnalysis.bin
+    |   |   |       jarAnalysis.bin
+    |   |   |       javaCompile.lock
+    |   |   |       taskHistory.bin
+    |   |   |       
+    |   |   \---vcsMetadata-1
+    |   +---buildOutputCleanup
+    |   |       buildOutputCleanup.lock
+    |   |       cache.properties
+    |   |       outputFiles.bin
+    |   |       
+    |   +---checksums
+    |   |       checksums.lock
+    |   |       md5-checksums.bin
+    |   |       sha1-checksums.bin
+    |   |       
+    |   \---vcs-1
+    |           gc.properties
+    |           
+    +---.idea
+    |   |   .gitignore
+    |   |   compiler.xml
+    |   |   deploymentTargetDropDown.xml
+    |   |   gradle.xml
+    |   |   jarRepositories.xml
+    |   |   misc.xml
+    |   |   modules.xml
+    |   |   workspace.xml
+    |   |   
+    |   +---caches
+    |   |       build_file_checksums.ser
+    |   |       
+    |   +---codeStyles
+    |   |       codeStyleConfig.xml
+    |   |       Project.xml
+    |   |       
+    |   +---libraries
+    |   |       Gradle__androidx_activity_activity_1_4_0_aar.xml
+    |   |       Gradle__androidx_activity_activity_ktx_1_4_0_aar.xml
+    |   |       Gradle__androidx_annotation_annotation_1_3_0.xml
+    |   |       Gradle__androidx_annotation_annotation_experimental_1_1_0_aar.xml
+    |   |       Gradle__androidx_appcompat_appcompat_1_4_1_aar.xml
+    |   |       Gradle__androidx_appcompat_appcompat_resources_1_4_1_aar.xml
+    |   |       Gradle__androidx_arch_core_core_common_2_1_0.xml
+    |   |       Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml
+    |   |       Gradle__androidx_cardview_cardview_1_0_0_aar.xml
+    |   |       Gradle__androidx_collection_collection_1_1_0.xml
+    |   |       Gradle__androidx_collection_collection_ktx_1_1_0.xml
+    |   |       Gradle__androidx_constraintlayout_constraintlayout_2_0_1_aar.xml
+    |   |       Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_1.xml
+    |   |       Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml
+    |   |       Gradle__androidx_core_core_1_7_0_aar.xml
+    |   |       Gradle__androidx_core_core_ktx_1_7_0_aar.xml
+    |   |       Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml
+    |   |       Gradle__androidx_customview_customview_1_1_0_aar.xml
+    |   |       Gradle__androidx_databinding_viewbinding_4_1_3_aar.xml
+    |   |       Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml
+    |   |       Gradle__androidx_drawerlayout_drawerlayout_1_1_1_aar.xml
+    |   |       Gradle__androidx_dynamicanimation_dynamicanimation_1_0_0_aar.xml
+    |   |       Gradle__androidx_fragment_fragment_1_4_1_aar.xml
+    |   |       Gradle__androidx_fragment_fragment_ktx_1_4_1_aar.xml
+    |   |       Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml
+    |   |       Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml
+    |   |       Gradle__androidx_lifecycle_lifecycle_common_2_4_1.xml
+    |   |       Gradle__androidx_lifecycle_lifecycle_common_java8_2_4_1.xml
+    |   |       Gradle__androidx_lifecycle_lifecycle_extensions_2_2_0_aar.xml
+    |   |       Gradle__androidx_lifecycle_lifecycle_livedata_2_4_1_aar.xml
+    |   |       Gradle__androidx_lifecycle_lifecycle_livedata_core_2_4_1_aar.xml
+    |   |       Gradle__androidx_lifecycle_lifecycle_livedata_core_ktx_2_4_1_aar.xml
+    |   |       Gradle__androidx_lifecycle_lifecycle_livedata_ktx_2_4_1_aar.xml
+    |   |       Gradle__androidx_lifecycle_lifecycle_runtime_2_4_1_aar.xml
+    |   |       Gradle__androidx_lifecycle_lifecycle_runtime_ktx_2_4_1_aar.xml
+    |   |       Gradle__androidx_lifecycle_lifecycle_viewmodel_2_4_1_aar.xml
+    |   |       Gradle__androidx_lifecycle_lifecycle_viewmodel_ktx_2_4_1_aar.xml
+    |   |       Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_3_1_aar.xml
+    |   |       Gradle__androidx_loader_loader_1_0_0_aar.xml
+    |   |       Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml
+    |   |       Gradle__androidx_print_print_1_0_0_aar.xml
+    |   |       Gradle__androidx_recyclerview_recyclerview_1_2_1_aar.xml
+    |   |       Gradle__androidx_room_room_common_2_4_2.xml
+    |   |       Gradle__androidx_room_room_runtime_2_4_2_aar.xml
+    |   |       Gradle__androidx_room_room_rxjava2_2_4_2_aar.xml
+    |   |       Gradle__androidx_savedstate_savedstate_1_1_0_aar.xml
+    |   |       Gradle__androidx_savedstate_savedstate_ktx_1_1_0_aar.xml
+    |   |       Gradle__androidx_sqlite_sqlite_2_2_0_aar.xml
+    |   |       Gradle__androidx_sqlite_sqlite_framework_2_2_0_aar.xml
+    |   |       Gradle__androidx_test_core_1_4_0_aar.xml
+    |   |       Gradle__androidx_test_espresso_espresso_core_3_4_0_aar.xml
+    |   |       Gradle__androidx_test_espresso_espresso_idling_resource_3_4_0_aar.xml
+    |   |       Gradle__androidx_test_ext_junit_1_1_3_aar.xml
+    |   |       Gradle__androidx_test_monitor_1_4_0_aar.xml
+    |   |       Gradle__androidx_test_runner_1_4_0_aar.xml
+    |   |       Gradle__androidx_test_services_storage_1_4_0_aar.xml
+    |   |       Gradle__androidx_transition_transition_1_2_0_aar.xml
+    |   |       Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml
+    |   |       Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml
+    |   |       Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml
+    |   |       Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml
+    |   |       Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml
+    |   |       Gradle__com_google_android_material_material_1_7_0_alpha01_aar.xml
+    |   |       Gradle__com_google_code_findbugs_jsr305_2_0_1.xml
+    |   |       Gradle__com_jakewharton_timber_timber_5_0_1_aar.xml
+    |   |       Gradle__com_squareup_javawriter_2_1_1.xml
+    |   |       Gradle__com_squareup_moshi_moshi_1_12_0.xml
+    |   |       Gradle__com_squareup_moshi_moshi_adapters_1_12_0.xml
+    |   |       Gradle__com_squareup_okhttp3_logging_interceptor_4_9_0.xml
+    |   |       Gradle__com_squareup_okhttp3_okhttp_4_9_0.xml
+    |   |       Gradle__com_squareup_okhttp3_okhttp_urlconnection_4_9_0.xml
+    |   |       Gradle__com_squareup_okio_okio_2_10_0.xml
+    |   |       Gradle__com_squareup_retrofit2_adapter_rxjava2_2_9_0.xml
+    |   |       Gradle__com_squareup_retrofit2_converter_moshi_2_9_0.xml
+    |   |       Gradle__com_squareup_retrofit2_retrofit_2_9_0.xml
+    |   |       Gradle__io_reactivex_rxjava2_rxandroid_2_1_0_aar.xml
+    |   |       Gradle__io_reactivex_rxjava2_rxjava_2_2_9.xml
+    |   |       Gradle__javax_inject_javax_inject_1.xml
+    |   |       Gradle__junit_junit_4_12.xml
+    |   |       Gradle__junit_junit_4_13_2.xml
+    |   |       Gradle__org_hamcrest_hamcrest_core_1_3.xml
+    |   |       Gradle__org_hamcrest_hamcrest_integration_1_3.xml
+    |   |       Gradle__org_hamcrest_hamcrest_library_1_3.xml
+    |   |       Gradle__org_jetbrains_annotations_13_0.xml
+    |   |       Gradle__org_jetbrains_annotations_20_1_0.xml
+    |   |       Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_5_0.xml
+    |   |       Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_5_0.xml
+    |   |       Gradle__org_jetbrains_kotlin_kotlin_android_extensions_runtime_1_4_32.xml
+    |   |       Gradle__org_jetbrains_kotlin_kotlin_parcelize_runtime_1_4_32.xml
+    |   |       Gradle__org_jetbrains_kotlin_kotlin_reflect_1_3_71.xml
+    |   |       Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_5_31.xml
+    |   |       Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_5_31.xml
+    |   |       Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_5_0.xml
+    |   |       Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_5_0.xml
+    |   |       Gradle__org_koin_koin_androidx_ext_2_1_5_aar.xml
+    |   |       Gradle__org_koin_koin_androidx_fragment_2_1_5_aar.xml
+    |   |       Gradle__org_koin_koin_androidx_scope_2_1_5_aar.xml
+    |   |       Gradle__org_koin_koin_androidx_viewmodel_2_1_5_aar.xml
+    |   |       Gradle__org_koin_koin_android_2_1_5_aar.xml
+    |   |       Gradle__org_koin_koin_core_2_1_5.xml
+    |   |       Gradle__org_koin_koin_core_ext_2_1_5.xml
+    |   |       Gradle__org_koin_koin_test_2_1_5.xml
+    |   |       Gradle__org_reactivestreams_reactive_streams_1_0_3.xml
+    |   |       
+    |   \---modules
+    |       |   Vezbe11.iml
+    |       |   
+    |       \---app
+    |               Vezbe11.app.androidTest.iml
+    |               Vezbe11.app.iml
+    |               Vezbe11.app.main.iml
+    |               Vezbe11.app.unitTest.iml
+    |               
+    +---app
+    |   |   .gitignore
+    |   |   build.gradle
+    |   |   proguard-rules.pro
+    |   |   
+    |   +---.gradle
+    |   +---build
+    |   |   +---generated
+    |   |   |   +---ap_generated_sources
+    |   |   |   |   \---debug
+    |   |   |   |       \---out
+    |   |   |   +---data_binding_base_class_source_out
+    |   |   |   |   \---debug
+    |   |   |   |       \---out
+    |   |   |   |           \---rs
+    |   |   |   |               \---raf
+    |   |   |   |                   \---vezbe11
+    |   |   |   |                       \---databinding
+    |   |   |   |                               ActivityMainBinding.java
+    |   |   |   |                               FragmentInputBinding.java
+    |   |   |   |                               FragmentListBinding.java
+    |   |   |   |                               LayoutItemMealBinding.java
+    |   |   |   |                               LayoutItemMovieBinding.java
+    |   |   |   |                               
+    |   |   |   +---res
+    |   |   |   |   +---pngs
+    |   |   |   |   |   \---debug
+    |   |   |   |   \---resValues
+    |   |   |   |       \---debug
+    |   |   |   \---source
+    |   |   |       +---buildConfig
+    |   |   |       |   \---debug
+    |   |   |       |       \---rs
+    |   |   |       |           \---raf
+    |   |   |       |               \---vezbe11
+    |   |   |       |                       BuildConfig.java
+    |   |   |       |                       
+    |   |   |       +---kapt
+    |   |   |       |   \---debug
+    |   |   |       |       \---rs
+    |   |   |       |           \---raf
+    |   |   |       |               \---vezbe11
+    |   |   |       |                   \---data
+    |   |   |       |                       +---datasources
+    |   |   |       |                       |   \---local
+    |   |   |       |                       |           MealDao_Impl.java
+    |   |   |       |                       |           MealDataBase_Impl.java
+    |   |   |       |                       |           MovieDao_Impl.java
+    |   |   |       |                       |           MovieDataBase_Impl.java
+    |   |   |       |                       |           
+    |   |   |       |                       \---models
+    |   |   |       |                               AllMealsResponseJsonAdapter.kt
+    |   |   |       |                               AllMoviesResponseJsonAdapter.kt
+    |   |   |       |                               MealResponseJsonAdapter.kt
+    |   |   |       |                               MovieResponseJsonAdapter.kt
+    |   |   |       |                               
+    |   |   |       \---kaptKotlin
+    |   |   |           \---debug
+    |   |   +---intermediates
+    |   |   |   +---aar_metadata_check
+    |   |   |   |   \---debug
+    |   |   |   +---annotation_processor_list
+    |   |   |   |   \---debug
+    |   |   |   |           annotationProcessors.json
+    |   |   |   |           
+    |   |   |   +---compatible_screen_manifest
+    |   |   |   |   \---debug
+    |   |   |   |           output-metadata.json
+    |   |   |   |           
+    |   |   |   +---compile_and_runtime_not_namespaced_r_class_jar
+    |   |   |   |   \---debug
+    |   |   |   |           R.jar
+    |   |   |   |           
+    |   |   |   +---compressed_assets
+    |   |   |   |   \---debug
+    |   |   |   |       \---out
+    |   |   |   +---data_binding_base_class_logs_dependency_artifacts
+    |   |   |   |   \---debug
+    |   |   |   +---data_binding_base_class_log_artifact
+    |   |   |   |   \---debug
+    |   |   |   |       \---out
+    |   |   |   |               rs.raf.vezbe11-binding_classes.json
+    |   |   |   |               
+    |   |   |   +---data_binding_dependency_artifacts
+    |   |   |   |   \---debug
+    |   |   |   +---data_binding_layout_info_type_merge
+    |   |   |   |   \---debug
+    |   |   |   |       \---out
+    |   |   |   |               activity_main-layout.xml
+    |   |   |   |               fragment_input-layout.xml
+    |   |   |   |               fragment_list-layout.xml
+    |   |   |   |               layout_item_meal-layout.xml
+    |   |   |   |               layout_item_movie-layout.xml
+    |   |   |   |               
+    |   |   |   +---dex
+    |   |   |   |   \---debug
+    |   |   |   |       +---mergeExtDexDebug
+    |   |   |   |       |       classes.dex
+    |   |   |   |       |       classes2.dex
+    |   |   |   |       |       
+    |   |   |   |       +---mergeLibDexDebug
+    |   |   |   |       \---mergeProjectDexDebug
+    |   |   |   |               classes.dex
+    |   |   |   |               
+    |   |   |   +---dex_archive_input_jar_hashes
+    |   |   |   |   \---debug
+    |   |   |   |           out
+    |   |   |   |           
+    |   |   |   +---dex_number_of_buckets_file
+    |   |   |   |   \---debug
+    |   |   |   |           out
+    |   |   |   |           
+    |   |   |   +---duplicate_classes_check
+    |   |   |   |   \---debug
+    |   |   |   +---external_file_lib_dex_archives
+    |   |   |   |   \---debug
+    |   |   |   +---external_libs_dex_archive
+    |   |   |   |   \---debug
+    |   |   |   |       \---out
+    |   |   |   +---external_libs_dex_archive_with_artifact_transforms
+    |   |   |   |   \---debug
+    |   |   |   |       \---out
+    |   |   |   +---incremental
+    |   |   |   |   +---dataBindingGenBaseClassesDebug
+    |   |   |   |   |       base_builder_log.json
+    |   |   |   |   |       
+    |   |   |   |   +---debug-mergeJavaRes
+    |   |   |   |   |   |   merge-state
+    |   |   |   |   |   |   
+    |   |   |   |   |   \---zip-cache
+    |   |   |   |   |           1DAlfHxFqHeiOhd59dQBCuMTqP4=
+    |   |   |   |   |           1ZUL1w1LH6JWmx8GGb_58XVL8tQ=
+    |   |   |   |   |           2bhnl74E+7edO6ivX++7kEtDOTo=
+    |   |   |   |   |           2FCayk+0pV3V54FEXwXODPtgq9I=
+    |   |   |   |   |           2RKmcNbcnw0JwQgM67_hBM2P6wM=
+    |   |   |   |   |           2Sh2xNFurI33i9AGIOFX6k1R5Ac=
+    |   |   |   |   |           3p8IED6fL6g5QukJPlOLGZzI+Ew=
+    |   |   |   |   |           3Y6Djz5voLqL_HBIarXaCYaklqs=
+    |   |   |   |   |           4+BdPglokbCQHZjf1VhVHTl4fdE=
+    |   |   |   |   |           4KH4j_hbWs4HFiadXOJAHKCndAU=
+    |   |   |   |   |           5Gn7GQePkLRe5KKR26SxAKShfEE=
+    |   |   |   |   |           5LtpIP3TC2gHma63NsZBKSFbAGM=
+    |   |   |   |   |           6WS9pKT0S05bWzCOorG3dUC7Y6M=
+    |   |   |   |   |           7kcf7AUToeCq6sFeFKxgV0oqM94=
+    |   |   |   |   |           81BNVtlQ9sy77TDEpnH3eesa1LU=
+    |   |   |   |   |           9T0sJukVjIDbzWs9Vp2b56KTZXQ=
+    |   |   |   |   |           9yrnba1r+a0bkJPwjPAItP+m0j8=
+    |   |   |   |   |           ajmLknIDqE6uFrNI0cE4oHGQUSU=
+    |   |   |   |   |           ArgH3KadsdEY+SrjaOuJ7rNIhSU=
+    |   |   |   |   |           aVl4rzilHTPs_48W_IJ7GKhvixY=
+    |   |   |   |   |           B6avGSuX5KBozt7X2RnzyRWVDdI=
+    |   |   |   |   |           BqjHFqKWelzc9XoscKNMVAh2ygU=
+    |   |   |   |   |           Btn+V2sHWSWzRbSa4yNJklNyiLs=
+    |   |   |   |   |           BU8z9wiZ4kaYKlHobMQWl05atUw=
+    |   |   |   |   |           BwTkmHKouXGzObG67iVrC4LSSc4=
+    |   |   |   |   |           cc+ytHzPQRcFrY_hnJpgj254JUg=
+    |   |   |   |   |           CJEnwquLjJb7F420GxviahkxTjk=
+    |   |   |   |   |           CyGw0V+UeZGRq91KZ4PAEIpLAmM=
+    |   |   |   |   |           d2puyp4M_KF3AwqXYCw3IAKZOM8=
+    |   |   |   |   |           Dm8USBVKkk+F+xZExIxQ9ltUaD4=
+    |   |   |   |   |           DtLWiJGvzCMEBEAvpqtC0gYINig=
+    |   |   |   |   |           DXKqykJB+W4PYdmwPfNLbq7V1KY=
+    |   |   |   |   |           dyEs4N2Jq_c5zKwCLaVN0+BMn+4=
+    |   |   |   |   |           EKNAZXlXC_TJN1a7hvgsog2l0jc=
+    |   |   |   |   |           eluRulFmclipg0iRHJB2nGjrjzg=
+    |   |   |   |   |           eqSUeW16Gn7RzTqXA_u5PD0CWuQ=
+    |   |   |   |   |           F0CEWopA8U3cGifLE+Up36KJtNc=
+    |   |   |   |   |           FBzvQTOLPcdYYVrwqCsu31+gOAM=
+    |   |   |   |   |           FKF5vHYP27M1O8+8M020TrEIE2c=
+    |   |   |   |   |           FL3bLsYEv9_gnhVU+L0BPWLuxjY=
+    |   |   |   |   |           g5E5Yojfzt63cUrWtsubCVBYIXc=
+    |   |   |   |   |           gqysXJkkRM7qKpnuewFfIl5yLog=
+    |   |   |   |   |           gU1i4yYNa+pJsu6rDMZMRqTy2Fk=
+    |   |   |   |   |           GU8sou9VTZIgzdGyiauBrEqSpCs=
+    |   |   |   |   |           gUsMm+dt65_SIi92Fj7CjWII1qg=
+    |   |   |   |   |           GwdK1yZWiKnYs8wXPc6PwWrl1Z8=
+    |   |   |   |   |           habJvVsWti2AktWd+vjha1GxklI=
+    |   |   |   |   |           HKjjj+CwFndI_vGyV37VVh8z1N0=
+    |   |   |   |   |           hqc5vA8GQPACzD_eu_g8z2L89Sc=
+    |   |   |   |   |           io_TOnT7Pwcb1AGRQacEOwoAHXg=
+    |   |   |   |   |           JNKt9H3oMNqeNZtI6PPdWaX3kC8=
+    |   |   |   |   |           Ju5xGWzDNe_YZ31PxtLcIwk+Z+0=
+    |   |   |   |   |           KO+oSFOfgVWSw+B6Q1xQqoXKpVQ=
+    |   |   |   |   |           llcZeddmV55_NzE3NOvs3jy9L4A=
+    |   |   |   |   |           LWMKVNxlRkC5wC3zWE2CJasPGGU=
+    |   |   |   |   |           N67vOwbUIzH+x70AH2RE_d0mQn0=
+    |   |   |   |   |           nciUdEKcEPduMbsbigCjqQUTAF4=
+    |   |   |   |   |           nhyvYcXzfZsAJy9Zfn8n0aX1p1Y=
+    |   |   |   |   |           NnpdPecyvEKxActo+53GrtNrtao=
+    |   |   |   |   |           nvc+fw0J+epYIL7o1oDSFcJ5SpY=
+    |   |   |   |   |           o31cRWZrCogWyyT0AICVTgDZVwg=
+    |   |   |   |   |           OEYaE7SsHQNMkRA02f1zvuZMwVU=
+    |   |   |   |   |           OIodLyKfX9ep4T+GB9hqPZ2rFX0=
+    |   |   |   |   |           ojhZJIAsLYlooRsCfVnE4k9dQNs=
+    |   |   |   |   |           pBqZ+FwRgNhnojwdP1TIXaFJlQQ=
+    |   |   |   |   |           Pg02LAG8I_T1ldBFeiYnixmnPaw=
+    |   |   |   |   |           pRgRbnlq_w9J459f13RcBie4JQU=
+    |   |   |   |   |           pYhbtzzbd8zA2ZzvRp7ojxhUiIA=
+    |   |   |   |   |           qo7tiy6JlWssEN1rkLG+y2H1UKA=
+    |   |   |   |   |           RcZPrTZ3ZL6w5aPKovYAP1sPJA8=
+    |   |   |   |   |           rp6PX83dNBbHuEh0WTJkyCgNZ_Q=
+    |   |   |   |   |           ryzGkN5cQnneAFsK+xgoWhBf9WE=
+    |   |   |   |   |           RZSmWyNpvqfko97ExoDgPxlFN+s=
+    |   |   |   |   |           Soa6d8+jx0UR0uZM7MqbLELLkhk=
+    |   |   |   |   |           szI+5fUrBpa5q96F1SyF_cr_46w=
+    |   |   |   |   |           Tnts1FMHXKen6N54Usb2L6bMU5w=
+    |   |   |   |   |           tOTYVWmjG6aEbeUMnBqrLgqlvGM=
+    |   |   |   |   |           Uk687rOtqQPgK_H2P8C1TsRXJlY=
+    |   |   |   |   |           VwuaoKK21R_REtRh9xNHZr4f1C4=
+    |   |   |   |   |           w62ZBSJVcwOxh4n3HkfM1fmITck=
+    |   |   |   |   |           WI3yBNmaPzLEhcH+_IOewu04Y1w=
+    |   |   |   |   |           wPrnfnivVDFwXPbdFiuHiFFuUeM=
+    |   |   |   |   |           X9RSwwklMgUlj7RocCB64taP1uc=
+    |   |   |   |   |           xWdZCVzu9bqGf2C9yRsa3v4_tr4=
+    |   |   |   |   |           xzmNi8hC4BMG4cB8eb68CnSuF58=
+    |   |   |   |   |           Y5n7Spy7f91z8_wLqqAehidLU2w=
+    |   |   |   |   |           YCyC1R8YDkzUw7iWRJ6AvwqMLlo=
+    |   |   |   |   |           yFBeLFc7bJ_TbGD7arXF8fwPa4o=
+    |   |   |   |   |           Z9s3rW71LMBWZrzhyGecX9g8eAI=
+    |   |   |   |   |           ZJQc2o5ggvkVN09bDm7Iu2oezhU=
+    |   |   |   |   |           ZqNKSrhWbBKF8duuRQrmSTNjtyo=
+    |   |   |   |   |           _26HY_NdjI4+ZI0Rhhp7uW+ERpg=
+    |   |   |   |   |           _co1aGt2PtjRpS8_Yp1gP4+bnVE=
+    |   |   |   |   |           _DM_JpLMTcXN_gn0iCQU1LydAn4=
+    |   |   |   |   |           _WXqwEqLVjju2OZvTRL2is1tVpU=
+    |   |   |   |   |           
+    |   |   |   |   +---debug-mergeNativeLibs
+    |   |   |   |   |   |   merge-state
+    |   |   |   |   |   |   
+    |   |   |   |   |   \---zip-cache
+    |   |   |   |   |           1DAlfHxFqHeiOhd59dQBCuMTqP4=
+    |   |   |   |   |           1ZUL1w1LH6JWmx8GGb_58XVL8tQ=
+    |   |   |   |   |           2bhnl74E+7edO6ivX++7kEtDOTo=
+    |   |   |   |   |           2FCayk+0pV3V54FEXwXODPtgq9I=
+    |   |   |   |   |           2RKmcNbcnw0JwQgM67_hBM2P6wM=
+    |   |   |   |   |           2Sh2xNFurI33i9AGIOFX6k1R5Ac=
+    |   |   |   |   |           3p8IED6fL6g5QukJPlOLGZzI+Ew=
+    |   |   |   |   |           3Y6Djz5voLqL_HBIarXaCYaklqs=
+    |   |   |   |   |           4+BdPglokbCQHZjf1VhVHTl4fdE=
+    |   |   |   |   |           4KH4j_hbWs4HFiadXOJAHKCndAU=
+    |   |   |   |   |           5Gn7GQePkLRe5KKR26SxAKShfEE=
+    |   |   |   |   |           5LtpIP3TC2gHma63NsZBKSFbAGM=
+    |   |   |   |   |           6WS9pKT0S05bWzCOorG3dUC7Y6M=
+    |   |   |   |   |           7kcf7AUToeCq6sFeFKxgV0oqM94=
+    |   |   |   |   |           81BNVtlQ9sy77TDEpnH3eesa1LU=
+    |   |   |   |   |           9T0sJukVjIDbzWs9Vp2b56KTZXQ=
+    |   |   |   |   |           9yrnba1r+a0bkJPwjPAItP+m0j8=
+    |   |   |   |   |           ajmLknIDqE6uFrNI0cE4oHGQUSU=
+    |   |   |   |   |           ArgH3KadsdEY+SrjaOuJ7rNIhSU=
+    |   |   |   |   |           aVl4rzilHTPs_48W_IJ7GKhvixY=
+    |   |   |   |   |           B6avGSuX5KBozt7X2RnzyRWVDdI=
+    |   |   |   |   |           BqjHFqKWelzc9XoscKNMVAh2ygU=
+    |   |   |   |   |           Btn+V2sHWSWzRbSa4yNJklNyiLs=
+    |   |   |   |   |           BU8z9wiZ4kaYKlHobMQWl05atUw=
+    |   |   |   |   |           BwTkmHKouXGzObG67iVrC4LSSc4=
+    |   |   |   |   |           cc+ytHzPQRcFrY_hnJpgj254JUg=
+    |   |   |   |   |           CJEnwquLjJb7F420GxviahkxTjk=
+    |   |   |   |   |           CyGw0V+UeZGRq91KZ4PAEIpLAmM=
+    |   |   |   |   |           d2puyp4M_KF3AwqXYCw3IAKZOM8=
+    |   |   |   |   |           Dm8USBVKkk+F+xZExIxQ9ltUaD4=
+    |   |   |   |   |           DtLWiJGvzCMEBEAvpqtC0gYINig=
+    |   |   |   |   |           DXKqykJB+W4PYdmwPfNLbq7V1KY=
+    |   |   |   |   |           dyEs4N2Jq_c5zKwCLaVN0+BMn+4=
+    |   |   |   |   |           EKNAZXlXC_TJN1a7hvgsog2l0jc=
+    |   |   |   |   |           eluRulFmclipg0iRHJB2nGjrjzg=
+    |   |   |   |   |           eqSUeW16Gn7RzTqXA_u5PD0CWuQ=
+    |   |   |   |   |           F0CEWopA8U3cGifLE+Up36KJtNc=
+    |   |   |   |   |           FBzvQTOLPcdYYVrwqCsu31+gOAM=
+    |   |   |   |   |           FKF5vHYP27M1O8+8M020TrEIE2c=
+    |   |   |   |   |           FL3bLsYEv9_gnhVU+L0BPWLuxjY=
+    |   |   |   |   |           g5E5Yojfzt63cUrWtsubCVBYIXc=
+    |   |   |   |   |           gqysXJkkRM7qKpnuewFfIl5yLog=
+    |   |   |   |   |           gU1i4yYNa+pJsu6rDMZMRqTy2Fk=
+    |   |   |   |   |           GU8sou9VTZIgzdGyiauBrEqSpCs=
+    |   |   |   |   |           gUsMm+dt65_SIi92Fj7CjWII1qg=
+    |   |   |   |   |           GwdK1yZWiKnYs8wXPc6PwWrl1Z8=
+    |   |   |   |   |           habJvVsWti2AktWd+vjha1GxklI=
+    |   |   |   |   |           HKjjj+CwFndI_vGyV37VVh8z1N0=
+    |   |   |   |   |           hqc5vA8GQPACzD_eu_g8z2L89Sc=
+    |   |   |   |   |           io_TOnT7Pwcb1AGRQacEOwoAHXg=
+    |   |   |   |   |           JNKt9H3oMNqeNZtI6PPdWaX3kC8=
+    |   |   |   |   |           Ju5xGWzDNe_YZ31PxtLcIwk+Z+0=
+    |   |   |   |   |           KO+oSFOfgVWSw+B6Q1xQqoXKpVQ=
+    |   |   |   |   |           llcZeddmV55_NzE3NOvs3jy9L4A=
+    |   |   |   |   |           LWMKVNxlRkC5wC3zWE2CJasPGGU=
+    |   |   |   |   |           N67vOwbUIzH+x70AH2RE_d0mQn0=
+    |   |   |   |   |           nciUdEKcEPduMbsbigCjqQUTAF4=
+    |   |   |   |   |           nhyvYcXzfZsAJy9Zfn8n0aX1p1Y=
+    |   |   |   |   |           NnpdPecyvEKxActo+53GrtNrtao=
+    |   |   |   |   |           nvc+fw0J+epYIL7o1oDSFcJ5SpY=
+    |   |   |   |   |           o31cRWZrCogWyyT0AICVTgDZVwg=
+    |   |   |   |   |           OEYaE7SsHQNMkRA02f1zvuZMwVU=
+    |   |   |   |   |           OIodLyKfX9ep4T+GB9hqPZ2rFX0=
+    |   |   |   |   |           ojhZJIAsLYlooRsCfVnE4k9dQNs=
+    |   |   |   |   |           pBqZ+FwRgNhnojwdP1TIXaFJlQQ=
+    |   |   |   |   |           Pg02LAG8I_T1ldBFeiYnixmnPaw=
+    |   |   |   |   |           pRgRbnlq_w9J459f13RcBie4JQU=
+    |   |   |   |   |           pYhbtzzbd8zA2ZzvRp7ojxhUiIA=
+    |   |   |   |   |           qo7tiy6JlWssEN1rkLG+y2H1UKA=
+    |   |   |   |   |           RcZPrTZ3ZL6w5aPKovYAP1sPJA8=
+    |   |   |   |   |           rp6PX83dNBbHuEh0WTJkyCgNZ_Q=
+    |   |   |   |   |           ryzGkN5cQnneAFsK+xgoWhBf9WE=
+    |   |   |   |   |           RZSmWyNpvqfko97ExoDgPxlFN+s=
+    |   |   |   |   |           Soa6d8+jx0UR0uZM7MqbLELLkhk=
+    |   |   |   |   |           szI+5fUrBpa5q96F1SyF_cr_46w=
+    |   |   |   |   |           Tnts1FMHXKen6N54Usb2L6bMU5w=
+    |   |   |   |   |           tOTYVWmjG6aEbeUMnBqrLgqlvGM=
+    |   |   |   |   |           Uk687rOtqQPgK_H2P8C1TsRXJlY=
+    |   |   |   |   |           VwuaoKK21R_REtRh9xNHZr4f1C4=
+    |   |   |   |   |           w62ZBSJVcwOxh4n3HkfM1fmITck=
+    |   |   |   |   |           WI3yBNmaPzLEhcH+_IOewu04Y1w=
+    |   |   |   |   |           wPrnfnivVDFwXPbdFiuHiFFuUeM=
+    |   |   |   |   |           X9RSwwklMgUlj7RocCB64taP1uc=
+    |   |   |   |   |           xWdZCVzu9bqGf2C9yRsa3v4_tr4=
+    |   |   |   |   |           xzmNi8hC4BMG4cB8eb68CnSuF58=
+    |   |   |   |   |           Y5n7Spy7f91z8_wLqqAehidLU2w=
+    |   |   |   |   |           YCyC1R8YDkzUw7iWRJ6AvwqMLlo=
+    |   |   |   |   |           yFBeLFc7bJ_TbGD7arXF8fwPa4o=
+    |   |   |   |   |           Z9s3rW71LMBWZrzhyGecX9g8eAI=
+    |   |   |   |   |           ZJQc2o5ggvkVN09bDm7Iu2oezhU=
+    |   |   |   |   |           ZqNKSrhWbBKF8duuRQrmSTNjtyo=
+    |   |   |   |   |           _26HY_NdjI4+ZI0Rhhp7uW+ERpg=
+    |   |   |   |   |           _co1aGt2PtjRpS8_Yp1gP4+bnVE=
+    |   |   |   |   |           _DM_JpLMTcXN_gn0iCQU1LydAn4=
+    |   |   |   |   |           _WXqwEqLVjju2OZvTRL2is1tVpU=
+    |   |   |   |   |           
+    |   |   |   |   +---mergeDebugAssets
+    |   |   |   |   |       merger.xml
+    |   |   |   |   |       
+    |   |   |   |   +---mergeDebugJniLibFolders
+    |   |   |   |   |       merger.xml
+    |   |   |   |   |       
+    |   |   |   |   +---mergeDebugResources
+    |   |   |   |   |   |   compile-file-map.properties
+    |   |   |   |   |   |   merger.xml
+    |   |   |   |   |   |   
+    |   |   |   |   |   +---merged.dir
+    |   |   |   |   |   |   +---values
+    |   |   |   |   |   |   |       values.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-af
+    |   |   |   |   |   |   |       values-af.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-am
+    |   |   |   |   |   |   |       values-am.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-ar
+    |   |   |   |   |   |   |       values-ar.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-as
+    |   |   |   |   |   |   |       values-as.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-az
+    |   |   |   |   |   |   |       values-az.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-b+es+419
+    |   |   |   |   |   |   |       values-b+es+419.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-b+sr+Latn
+    |   |   |   |   |   |   |       values-b+sr+Latn.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-be
+    |   |   |   |   |   |   |       values-be.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-bg
+    |   |   |   |   |   |   |       values-bg.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-bn
+    |   |   |   |   |   |   |       values-bn.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-bs
+    |   |   |   |   |   |   |       values-bs.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-ca
+    |   |   |   |   |   |   |       values-ca.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-cs
+    |   |   |   |   |   |   |       values-cs.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-da
+    |   |   |   |   |   |   |       values-da.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-de
+    |   |   |   |   |   |   |       values-de.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-el
+    |   |   |   |   |   |   |       values-el.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-en-rAU
+    |   |   |   |   |   |   |       values-en-rAU.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-en-rCA
+    |   |   |   |   |   |   |       values-en-rCA.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-en-rGB
+    |   |   |   |   |   |   |       values-en-rGB.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-en-rIN
+    |   |   |   |   |   |   |       values-en-rIN.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-en-rXC
+    |   |   |   |   |   |   |       values-en-rXC.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-es
+    |   |   |   |   |   |   |       values-es.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-es-rUS
+    |   |   |   |   |   |   |       values-es-rUS.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-et
+    |   |   |   |   |   |   |       values-et.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-eu
+    |   |   |   |   |   |   |       values-eu.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-fa
+    |   |   |   |   |   |   |       values-fa.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-fi
+    |   |   |   |   |   |   |       values-fi.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-fr
+    |   |   |   |   |   |   |       values-fr.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-fr-rCA
+    |   |   |   |   |   |   |       values-fr-rCA.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-gl
+    |   |   |   |   |   |   |       values-gl.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-gu
+    |   |   |   |   |   |   |       values-gu.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-h320dp-port-v13
+    |   |   |   |   |   |   |       values-h320dp-port-v13.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-h360dp-land-v13
+    |   |   |   |   |   |   |       values-h360dp-land-v13.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-h480dp-land-v13
+    |   |   |   |   |   |   |       values-h480dp-land-v13.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-h550dp-port-v13
+    |   |   |   |   |   |   |       values-h550dp-port-v13.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-h720dp-v13
+    |   |   |   |   |   |   |       values-h720dp-v13.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-hdpi-v4
+    |   |   |   |   |   |   |       values-hdpi-v4.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-hi
+    |   |   |   |   |   |   |       values-hi.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-hr
+    |   |   |   |   |   |   |       values-hr.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-hu
+    |   |   |   |   |   |   |       values-hu.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-hy
+    |   |   |   |   |   |   |       values-hy.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-in
+    |   |   |   |   |   |   |       values-in.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-is
+    |   |   |   |   |   |   |       values-is.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-it
+    |   |   |   |   |   |   |       values-it.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-iw
+    |   |   |   |   |   |   |       values-iw.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-ja
+    |   |   |   |   |   |   |       values-ja.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-ka
+    |   |   |   |   |   |   |       values-ka.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-kk
+    |   |   |   |   |   |   |       values-kk.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-km
+    |   |   |   |   |   |   |       values-km.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-kn
+    |   |   |   |   |   |   |       values-kn.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-ko
+    |   |   |   |   |   |   |       values-ko.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-ky
+    |   |   |   |   |   |   |       values-ky.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-land
+    |   |   |   |   |   |   |       values-land.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-large-v4
+    |   |   |   |   |   |   |       values-large-v4.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-ldltr-v21
+    |   |   |   |   |   |   |       values-ldltr-v21.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-ldrtl-v17
+    |   |   |   |   |   |   |       values-ldrtl-v17.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-lo
+    |   |   |   |   |   |   |       values-lo.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-lt
+    |   |   |   |   |   |   |       values-lt.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-lv
+    |   |   |   |   |   |   |       values-lv.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-mk
+    |   |   |   |   |   |   |       values-mk.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-ml
+    |   |   |   |   |   |   |       values-ml.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-mn
+    |   |   |   |   |   |   |       values-mn.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-mr
+    |   |   |   |   |   |   |       values-mr.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-ms
+    |   |   |   |   |   |   |       values-ms.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-my
+    |   |   |   |   |   |   |       values-my.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-nb
+    |   |   |   |   |   |   |       values-nb.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-ne
+    |   |   |   |   |   |   |       values-ne.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-night-v8
+    |   |   |   |   |   |   |       values-night-v8.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-nl
+    |   |   |   |   |   |   |       values-nl.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-or
+    |   |   |   |   |   |   |       values-or.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-pa
+    |   |   |   |   |   |   |       values-pa.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-pl
+    |   |   |   |   |   |   |       values-pl.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-port
+    |   |   |   |   |   |   |       values-port.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-pt
+    |   |   |   |   |   |   |       values-pt.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-pt-rBR
+    |   |   |   |   |   |   |       values-pt-rBR.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-pt-rPT
+    |   |   |   |   |   |   |       values-pt-rPT.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-ro
+    |   |   |   |   |   |   |       values-ro.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-ru
+    |   |   |   |   |   |   |       values-ru.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-si
+    |   |   |   |   |   |   |       values-si.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-sk
+    |   |   |   |   |   |   |       values-sk.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-sl
+    |   |   |   |   |   |   |       values-sl.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-small-v4
+    |   |   |   |   |   |   |       values-small-v4.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-sq
+    |   |   |   |   |   |   |       values-sq.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-sr
+    |   |   |   |   |   |   |       values-sr.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-sv
+    |   |   |   |   |   |   |       values-sv.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-sw
+    |   |   |   |   |   |   |       values-sw.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-sw600dp-v13
+    |   |   |   |   |   |   |       values-sw600dp-v13.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-ta
+    |   |   |   |   |   |   |       values-ta.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-te
+    |   |   |   |   |   |   |       values-te.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-th
+    |   |   |   |   |   |   |       values-th.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-tl
+    |   |   |   |   |   |   |       values-tl.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-tr
+    |   |   |   |   |   |   |       values-tr.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-uk
+    |   |   |   |   |   |   |       values-uk.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-ur
+    |   |   |   |   |   |   |       values-ur.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-uz
+    |   |   |   |   |   |   |       values-uz.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-v16
+    |   |   |   |   |   |   |       values-v16.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-v17
+    |   |   |   |   |   |   |       values-v17.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-v18
+    |   |   |   |   |   |   |       values-v18.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-v21
+    |   |   |   |   |   |   |       values-v21.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-v22
+    |   |   |   |   |   |   |       values-v22.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-v23
+    |   |   |   |   |   |   |       values-v23.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-v24
+    |   |   |   |   |   |   |       values-v24.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-v25
+    |   |   |   |   |   |   |       values-v25.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-v26
+    |   |   |   |   |   |   |       values-v26.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-v28
+    |   |   |   |   |   |   |       values-v28.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-v31
+    |   |   |   |   |   |   |       values-v31.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-vi
+    |   |   |   |   |   |   |       values-vi.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-w320dp-land-v13
+    |   |   |   |   |   |   |       values-w320dp-land-v13.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-w360dp-port-v13
+    |   |   |   |   |   |   |       values-w360dp-port-v13.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-w480dp-port-v13
+    |   |   |   |   |   |   |       values-w480dp-port-v13.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-w600dp-land-v13
+    |   |   |   |   |   |   |       values-w600dp-land-v13.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-watch-v20
+    |   |   |   |   |   |   |       values-watch-v20.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-watch-v21
+    |   |   |   |   |   |   |       values-watch-v21.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-xlarge-v4
+    |   |   |   |   |   |   |       values-xlarge-v4.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-zh-rCN
+    |   |   |   |   |   |   |       values-zh-rCN.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-zh-rHK
+    |   |   |   |   |   |   |       values-zh-rHK.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   +---values-zh-rTW
+    |   |   |   |   |   |   |       values-zh-rTW.xml
+    |   |   |   |   |   |   |       
+    |   |   |   |   |   |   \---values-zu
+    |   |   |   |   |   |           values-zu.xml
+    |   |   |   |   |   |           
+    |   |   |   |   |   \---stripped.dir
+    |   |   |   |   |       \---layout
+    |   |   |   |   |               activity_main.xml
+    |   |   |   |   |               fragment_input.xml
+    |   |   |   |   |               fragment_list.xml
+    |   |   |   |   |               layout_item_meal.xml
+    |   |   |   |   |               layout_item_movie.xml
+    |   |   |   |   |               
+    |   |   |   |   +---mergeDebugShaders
+    |   |   |   |   |       merger.xml
+    |   |   |   |   |       
+    |   |   |   |   +---packageDebug
+    |   |   |   |   |   \---tmp
+    |   |   |   |   |       \---debug
+    |   |   |   |   |           |   dex-renamer-state.txt
+    |   |   |   |   |           |   
+    |   |   |   |   |           \---zip-cache
+    |   |   |   |   |                   androidResources
+    |   |   |   |   |                   javaResources0
+    |   |   |   |   |                   
+    |   |   |   |   \---processDebugResources
+    |   |   |   +---javac
+    |   |   |   |   \---debug
+    |   |   |   |       \---classes
+    |   |   |   |           \---rs
+    |   |   |   |               \---raf
+    |   |   |   |                   \---vezbe11
+    |   |   |   |                       |   BuildConfig.class
+    |   |   |   |                       |   
+    |   |   |   |                       +---data
+    |   |   |   |                       |   \---datasources
+    |   |   |   |                       |       \---local
+    |   |   |   |                       |               MealDao_Impl$1.class
+    |   |   |   |                       |               MealDao_Impl$2.class
+    |   |   |   |                       |               MealDao_Impl$3.class
+    |   |   |   |                       |               MealDao_Impl$4.class
+    |   |   |   |                       |               MealDao_Impl$5.class
+    |   |   |   |                       |               MealDao_Impl$6.class
+    |   |   |   |                       |               MealDao_Impl.class
+    |   |   |   |                       |               MealDataBase_Impl$1.class
+    |   |   |   |                       |               MealDataBase_Impl.class
+    |   |   |   |                       |               MovieDao_Impl$1.class
+    |   |   |   |                       |               MovieDao_Impl$2.class
+    |   |   |   |                       |               MovieDao_Impl$3.class
+    |   |   |   |                       |               MovieDao_Impl$4.class
+    |   |   |   |                       |               MovieDao_Impl$5.class
+    |   |   |   |                       |               MovieDao_Impl$6.class
+    |   |   |   |                       |               MovieDao_Impl.class
+    |   |   |   |                       |               MovieDataBase_Impl$1.class
+    |   |   |   |                       |               MovieDataBase_Impl.class
+    |   |   |   |                       |               
+    |   |   |   |                       \---databinding
+    |   |   |   |                               ActivityMainBinding.class
+    |   |   |   |                               FragmentInputBinding.class
+    |   |   |   |                               FragmentListBinding.class
+    |   |   |   |                               LayoutItemMealBinding.class
+    |   |   |   |                               LayoutItemMovieBinding.class
+    |   |   |   |                               
+    |   |   |   +---manifest_merge_blame_file
+    |   |   |   |   \---debug
+    |   |   |   |           manifest-merger-blame-debug-report.txt
+    |   |   |   |           
+    |   |   |   +---merged_assets
+    |   |   |   |   \---debug
+    |   |   |   |       \---out
+    |   |   |   +---merged_java_res
+    |   |   |   |   \---debug
+    |   |   |   |           out.jar
+    |   |   |   |           
+    |   |   |   +---merged_jni_libs
+    |   |   |   |   \---debug
+    |   |   |   |       \---out
+    |   |   |   +---merged_manifest
+    |   |   |   |   \---debug
+    |   |   |   |       \---out
+    |   |   |   |               AndroidManifest.xml
+    |   |   |   |               
+    |   |   |   +---merged_manifests
+    |   |   |   |   \---debug
+    |   |   |   |           AndroidManifest.xml
+    |   |   |   |           output-metadata.json
+    |   |   |   |           
+    |   |   |   +---merged_native_libs
+    |   |   |   |   \---debug
+    |   |   |   |       \---out
+    |   |   |   +---merged_res_blame_folder
+    |   |   |   |   \---debug
+    |   |   |   |       \---out
+    |   |   |   |           +---multi-v2
+    |   |   |   |           |       debug.json
+    |   |   |   |           |       values-af.json
+    |   |   |   |           |       values-am.json
+    |   |   |   |           |       values-ar.json
+    |   |   |   |           |       values-as.json
+    |   |   |   |           |       values-az.json
+    |   |   |   |           |       values-b+es+419.json
+    |   |   |   |           |       values-b+sr+Latn.json
+    |   |   |   |           |       values-be.json
+    |   |   |   |           |       values-bg.json
+    |   |   |   |           |       values-bn.json
+    |   |   |   |           |       values-bs.json
+    |   |   |   |           |       values-ca.json
+    |   |   |   |           |       values-cs.json
+    |   |   |   |           |       values-da.json
+    |   |   |   |           |       values-de.json
+    |   |   |   |           |       values-el.json
+    |   |   |   |           |       values-en-rAU.json
+    |   |   |   |           |       values-en-rCA.json
+    |   |   |   |           |       values-en-rGB.json
+    |   |   |   |           |       values-en-rIN.json
+    |   |   |   |           |       values-en-rXC.json
+    |   |   |   |           |       values-es-rUS.json
+    |   |   |   |           |       values-es.json
+    |   |   |   |           |       values-et.json
+    |   |   |   |           |       values-eu.json
+    |   |   |   |           |       values-fa.json
+    |   |   |   |           |       values-fi.json
+    |   |   |   |           |       values-fr-rCA.json
+    |   |   |   |           |       values-fr.json
+    |   |   |   |           |       values-gl.json
+    |   |   |   |           |       values-gu.json
+    |   |   |   |           |       values-h320dp-port-v13.json
+    |   |   |   |           |       values-h360dp-land-v13.json
+    |   |   |   |           |       values-h480dp-land-v13.json
+    |   |   |   |           |       values-h550dp-port-v13.json
+    |   |   |   |           |       values-h720dp-v13.json
+    |   |   |   |           |       values-hdpi-v4.json
+    |   |   |   |           |       values-hi.json
+    |   |   |   |           |       values-hr.json
+    |   |   |   |           |       values-hu.json
+    |   |   |   |           |       values-hy.json
+    |   |   |   |           |       values-in.json
+    |   |   |   |           |       values-is.json
+    |   |   |   |           |       values-it.json
+    |   |   |   |           |       values-iw.json
+    |   |   |   |           |       values-ja.json
+    |   |   |   |           |       values-ka.json
+    |   |   |   |           |       values-kk.json
+    |   |   |   |           |       values-km.json
+    |   |   |   |           |       values-kn.json
+    |   |   |   |           |       values-ko.json
+    |   |   |   |           |       values-ky.json
+    |   |   |   |           |       values-land.json
+    |   |   |   |           |       values-large-v4.json
+    |   |   |   |           |       values-ldltr-v21.json
+    |   |   |   |           |       values-ldrtl-v17.json
+    |   |   |   |           |       values-lo.json
+    |   |   |   |           |       values-lt.json
+    |   |   |   |           |       values-lv.json
+    |   |   |   |           |       values-mk.json
+    |   |   |   |           |       values-ml.json
+    |   |   |   |           |       values-mn.json
+    |   |   |   |           |       values-mr.json
+    |   |   |   |           |       values-ms.json
+    |   |   |   |           |       values-my.json
+    |   |   |   |           |       values-nb.json
+    |   |   |   |           |       values-ne.json
+    |   |   |   |           |       values-night-v8.json
+    |   |   |   |           |       values-nl.json
+    |   |   |   |           |       values-or.json
+    |   |   |   |           |       values-pa.json
+    |   |   |   |           |       values-pl.json
+    |   |   |   |           |       values-port.json
+    |   |   |   |           |       values-pt-rBR.json
+    |   |   |   |           |       values-pt-rPT.json
+    |   |   |   |           |       values-pt.json
+    |   |   |   |           |       values-ro.json
+    |   |   |   |           |       values-ru.json
+    |   |   |   |           |       values-si.json
+    |   |   |   |           |       values-sk.json
+    |   |   |   |           |       values-sl.json
+    |   |   |   |           |       values-small-v4.json
+    |   |   |   |           |       values-sq.json
+    |   |   |   |           |       values-sr.json
+    |   |   |   |           |       values-sv.json
+    |   |   |   |           |       values-sw.json
+    |   |   |   |           |       values-sw600dp-v13.json
+    |   |   |   |           |       values-ta.json
+    |   |   |   |           |       values-te.json
+    |   |   |   |           |       values-th.json
+    |   |   |   |           |       values-tl.json
+    |   |   |   |           |       values-tr.json
+    |   |   |   |           |       values-uk.json
+    |   |   |   |           |       values-ur.json
+    |   |   |   |           |       values-uz.json
+    |   |   |   |           |       values-v16.json
+    |   |   |   |           |       values-v17.json
+    |   |   |   |           |       values-v18.json
+    |   |   |   |           |       values-v21.json
+    |   |   |   |           |       values-v22.json
+    |   |   |   |           |       values-v23.json
+    |   |   |   |           |       values-v24.json
+    |   |   |   |           |       values-v25.json
+    |   |   |   |           |       values-v26.json
+    |   |   |   |           |       values-v28.json
+    |   |   |   |           |       values-v31.json
+    |   |   |   |           |       values-vi.json
+    |   |   |   |           |       values-w320dp-land-v13.json
+    |   |   |   |           |       values-w360dp-port-v13.json
+    |   |   |   |           |       values-w480dp-port-v13.json
+    |   |   |   |           |       values-w600dp-land-v13.json
+    |   |   |   |           |       values-watch-v20.json
+    |   |   |   |           |       values-watch-v21.json
+    |   |   |   |           |       values-xlarge-v4.json
+    |   |   |   |           |       values-zh-rCN.json
+    |   |   |   |           |       values-zh-rHK.json
+    |   |   |   |           |       values-zh-rTW.json
+    |   |   |   |           |       values-zu.json
+    |   |   |   |           |       values.json
+    |   |   |   |           |       
+    |   |   |   |           \---single
+    |   |   |   |                   debug.json
+    |   |   |   |                   layout.json
+    |   |   |   |                   
+    |   |   |   +---merged_shaders
+    |   |   |   |   \---debug
+    |   |   |   |       \---out
+    |   |   |   +---mixed_scope_dex_archive
+    |   |   |   |   \---debug
+    |   |   |   |       \---out
+    |   |   |   +---navigation_json
+    |   |   |   |   \---debug
+    |   |   |   |           navigation.json
+    |   |   |   |           
+    |   |   |   +---packaged_manifests
+    |   |   |   |   \---debug
+    |   |   |   |           AndroidManifest.xml
+    |   |   |   |           output-metadata.json
+    |   |   |   |           
+    |   |   |   +---processed_res
+    |   |   |   |   \---debug
+    |   |   |   |       \---out
+    |   |   |   |               output-metadata.json
+    |   |   |   |               resources-debug.ap_
+    |   |   |   |               
+    |   |   |   +---project_dex_archive
+    |   |   |   |   \---debug
+    |   |   |   |       \---out
+    |   |   |   |           |   e49a460bcd1667dcda146f0302c4185f0f31c3e46ad3fea065c05d2be938a54a_0.jar
+    |   |   |   |           |   e49a460bcd1667dcda146f0302c4185f0f31c3e46ad3fea065c05d2be938a54a_1.jar
+    |   |   |   |           |   e49a460bcd1667dcda146f0302c4185f0f31c3e46ad3fea065c05d2be938a54a_2.jar
+    |   |   |   |           |   e49a460bcd1667dcda146f0302c4185f0f31c3e46ad3fea065c05d2be938a54a_3.jar
+    |   |   |   |           |   e49a460bcd1667dcda146f0302c4185f0f31c3e46ad3fea065c05d2be938a54a_4.jar
+    |   |   |   |           |   e49a460bcd1667dcda146f0302c4185f0f31c3e46ad3fea065c05d2be938a54a_5.jar
+    |   |   |   |           |   
+    |   |   |   |           \---rs
+    |   |   |   |               \---raf
+    |   |   |   |                   \---vezbe11
+    |   |   |   |                       |   BuildConfig.dex
+    |   |   |   |                       |   
+    |   |   |   |                       +---application
+    |   |   |   |                       |       Vezbe11Application$initKoin$1.dex
+    |   |   |   |                       |       Vezbe11Application.dex
+    |   |   |   |                       |       
+    |   |   |   |                       +---data
+    |   |   |   |                       |   +---datasources
+    |   |   |   |                       |   |   +---local
+    |   |   |   |                       |   |   |       MealDao.dex
+    |   |   |   |                       |   |   |       MealDao_Impl$1.dex
+    |   |   |   |                       |   |   |       MealDao_Impl$2.dex
+    |   |   |   |                       |   |   |       MealDao_Impl$3.dex
+    |   |   |   |                       |   |   |       MealDao_Impl$4.dex
+    |   |   |   |                       |   |   |       MealDao_Impl$5.dex
+    |   |   |   |                       |   |   |       MealDao_Impl$6.dex
+    |   |   |   |                       |   |   |       MealDao_Impl.dex
+    |   |   |   |                       |   |   |       MealDataBase.dex
+    |   |   |   |                       |   |   |       MealDataBase_Impl$1.dex
+    |   |   |   |                       |   |   |       MealDataBase_Impl.dex
+    |   |   |   |                       |   |   |       MovieDao.dex
+    |   |   |   |                       |   |   |       MovieDao_Impl$1.dex
+    |   |   |   |                       |   |   |       MovieDao_Impl$2.dex
+    |   |   |   |                       |   |   |       MovieDao_Impl$3.dex
+    |   |   |   |                       |   |   |       MovieDao_Impl$4.dex
+    |   |   |   |                       |   |   |       MovieDao_Impl$5.dex
+    |   |   |   |                       |   |   |       MovieDao_Impl$6.dex
+    |   |   |   |                       |   |   |       MovieDao_Impl.dex
+    |   |   |   |                       |   |   |       MovieDataBase.dex
+    |   |   |   |                       |   |   |       MovieDataBase_Impl$1.dex
+    |   |   |   |                       |   |   |       MovieDataBase_Impl.dex
+    |   |   |   |                       |   |   |       
+    |   |   |   |                       |   |   \---remote
+    |   |   |   |                       |   |           MealService$DefaultImpls.dex
+    |   |   |   |                       |   |           MealService.dex
+    |   |   |   |                       |   |           MovieService$DefaultImpls.dex
+    |   |   |   |                       |   |           MovieService.dex
+    |   |   |   |                       |   |           
+    |   |   |   |                       |   +---models
+    |   |   |   |                       |   |       AllMealsResponse.dex
+    |   |   |   |                       |   |       AllMealsResponseJsonAdapter.dex
+    |   |   |   |                       |   |       AllMoviesResponse.dex
+    |   |   |   |                       |   |       AllMoviesResponseJsonAdapter.dex
+    |   |   |   |                       |   |       Meal.dex
+    |   |   |   |                       |   |       MealEntity.dex
+    |   |   |   |                       |   |       MealResponse.dex
+    |   |   |   |                       |   |       MealResponseJsonAdapter.dex
+    |   |   |   |                       |   |       Movie.dex
+    |   |   |   |                       |   |       MovieEntity.dex
+    |   |   |   |                       |   |       MovieResponse.dex
+    |   |   |   |                       |   |       MovieResponseJsonAdapter.dex
+    |   |   |   |                       |   |       Resource$Error.dex
+    |   |   |   |                       |   |       Resource$Loading.dex
+    |   |   |   |                       |   |       Resource$Success.dex
+    |   |   |   |                       |   |       Resource.dex
+    |   |   |   |                       |   |       
+    |   |   |   |                       |   \---repositories
+    |   |   |   |                       |           MealRepository.dex
+    |   |   |   |                       |           MealRepositoryImpl$fetchAll$1.dex
+    |   |   |   |                       |           MealRepositoryImpl$fetchAll$2.dex
+    |   |   |   |                       |           MealRepositoryImpl$getAll$1.dex
+    |   |   |   |                       |           MealRepositoryImpl$getAllByName$1.dex
+    |   |   |   |                       |           MealRepositoryImpl.dex
+    |   |   |   |                       |           MovieRepository.dex
+    |   |   |   |                       |           MovieRepositoryImpl$fetchAll$1.dex
+    |   |   |   |                       |           MovieRepositoryImpl$fetchAll$2.dex
+    |   |   |   |                       |           MovieRepositoryImpl$getAll$1.dex
+    |   |   |   |                       |           MovieRepositoryImpl$getAllByName$1.dex
+    |   |   |   |                       |           MovieRepositoryImpl.dex
+    |   |   |   |                       |           
+    |   |   |   |                       +---databinding
+    |   |   |   |                       |       ActivityMainBinding.dex
+    |   |   |   |                       |       FragmentInputBinding.dex
+    |   |   |   |                       |       FragmentListBinding.dex
+    |   |   |   |                       |       LayoutItemMealBinding.dex
+    |   |   |   |                       |       LayoutItemMovieBinding.dex
+    |   |   |   |                       |       
+    |   |   |   |                       +---modules
+    |   |   |   |                       |       Core_moduleKt$coreModule$1$1.dex
+    |   |   |   |                       |       Core_moduleKt$coreModule$1$2.dex
+    |   |   |   |                       |       Core_moduleKt$coreModule$1$3.dex
+    |   |   |   |                       |       Core_moduleKt$coreModule$1$4.dex
+    |   |   |   |                       |       Core_moduleKt$coreModule$1$5.dex
+    |   |   |   |                       |       Core_moduleKt$coreModule$1$6.dex
+    |   |   |   |                       |       Core_moduleKt$coreModule$1$7.dex
+    |   |   |   |                       |       Core_moduleKt$coreModule$1$8.dex
+    |   |   |   |                       |       Core_moduleKt$coreModule$1.dex
+    |   |   |   |                       |       Core_moduleKt.dex
+    |   |   |   |                       |       Meal_moduleKt$mealModule$1$1.dex
+    |   |   |   |                       |       Meal_moduleKt$mealModule$1$2.dex
+    |   |   |   |                       |       Meal_moduleKt$mealModule$1$3.dex
+    |   |   |   |                       |       Meal_moduleKt$mealModule$1.dex
+    |   |   |   |                       |       Meal_moduleKt.dex
+    |   |   |   |                       |       Movie_moduleKt$movieModule$1$1.dex
+    |   |   |   |                       |       Movie_moduleKt$movieModule$1$2.dex
+    |   |   |   |                       |       Movie_moduleKt$movieModule$1$3.dex
+    |   |   |   |                       |       Movie_moduleKt$movieModule$1.dex
+    |   |   |   |                       |       Movie_moduleKt.dex
+    |   |   |   |                       |       
+    |   |   |   |                       \---presentation
+    |   |   |   |                           +---contract
+    |   |   |   |                           |       MainContract$ViewModel.dex
+    |   |   |   |                           |       MainContract.dex
+    |   |   |   |                           |       
+    |   |   |   |                           +---event
+    |   |   |   |                           |       Event.dex
+    |   |   |   |                           |       
+    |   |   |   |                           +---view
+    |   |   |   |                           |   +---activities
+    |   |   |   |                           |   |       MainActivity.dex
+    |   |   |   |                           |   |       
+    |   |   |   |                           |   +---adapters
+    |   |   |   |                           |   |       MainPagerAdapter$Companion.dex
+    |   |   |   |                           |   |       MainPagerAdapter.dex
+    |   |   |   |                           |   |       
+    |   |   |   |                           |   +---fragments
+    |   |   |   |                           |   |       InputFragment$$special$$inlined$sharedViewModel$1.dex
+    |   |   |   |                           |   |       InputFragment$initObservers$1.dex
+    |   |   |   |                           |   |       InputFragment$initUi$1.dex
+    |   |   |   |                           |   |       InputFragment.dex
+    |   |   |   |                           |   |       ListFragment$$special$$inlined$sharedViewModel$1.dex
+    |   |   |   |                           |   |       ListFragment$initListeners$$inlined$doAfterTextChanged$1.dex
+    |   |   |   |                           |   |       ListFragment$initObservers$1.dex
+    |   |   |   |                           |   |       ListFragment.dex
+    |   |   |   |                           |   |       ListMealFragment$$special$$inlined$sharedViewModel$1.dex
+    |   |   |   |                           |   |       ListMealFragment$initListeners$$inlined$doAfterTextChanged$1.dex
+    |   |   |   |                           |   |       ListMealFragment$initObservers$1.dex
+    |   |   |   |                           |   |       ListMealFragment.dex
+    |   |   |   |                           |   |       
+    |   |   |   |                           |   +---recycler
+    |   |   |   |                           |   |   +---adapter
+    |   |   |   |                           |   |   |       MealAdapter.dex
+    |   |   |   |                           |   |   |       MovieAdapter.dex
+    |   |   |   |                           |   |   |       
+    |   |   |   |                           |   |   +---diff
+    |   |   |   |                           |   |   |       MealDiffCallBack.dex
+    |   |   |   |                           |   |   |       MovieDiffCallback.dex
+    |   |   |   |                           |   |   |       
+    |   |   |   |                           |   |   \---viewholder
+    |   |   |   |                           |   |           MealViewHolder.dex
+    |   |   |   |                           |   |           MovieViewHolder.dex
+    |   |   |   |                           |   |           
+    |   |   |   |                           |   \---states
+    |   |   |   |                           |           AddMealState$Error.dex
+    |   |   |   |                           |           AddMealState$Success.dex
+    |   |   |   |                           |           AddMealState.dex
+    |   |   |   |                           |           AddMovieState$Error.dex
+    |   |   |   |                           |           AddMovieState$Success.dex
+    |   |   |   |                           |           AddMovieState.dex
+    |   |   |   |                           |           MealsState$DataFetched.dex
+    |   |   |   |                           |           MealsState$Error.dex
+    |   |   |   |                           |           MealsState$Loading.dex
+    |   |   |   |                           |           MealsState$Success.dex
+    |   |   |   |                           |           MealsState.dex
+    |   |   |   |                           |           MoviesState$DataFetched.dex
+    |   |   |   |                           |           MoviesState$Error.dex
+    |   |   |   |                           |           MoviesState$Loading.dex
+    |   |   |   |                           |           MoviesState$Success.dex
+    |   |   |   |                           |           MoviesState.dex
+    |   |   |   |                           |           
+    |   |   |   |                           \---viewmodel
+    |   |   |   |                                   MainViewModel$addMeal$subscription$1.dex
+    |   |   |   |                                   MainViewModel$addMeal$subscription$2.dex
+    |   |   |   |                                   MainViewModel$addMovie$subscription$1.dex
+    |   |   |   |                                   MainViewModel$addMovie$subscription$2.dex
+    |   |   |   |                                   MainViewModel$fetchAllMeals$subscription$1.dex
+    |   |   |   |                                   MainViewModel$fetchAllMeals$subscription$2.dex
+    |   |   |   |                                   MainViewModel$fetchAllMovies$subscription$1.dex
+    |   |   |   |                                   MainViewModel$fetchAllMovies$subscription$2.dex
+    |   |   |   |                                   MainViewModel$getAllMeals$subscription$1.dex
+    |   |   |   |                                   MainViewModel$getAllMeals$subscription$2.dex
+    |   |   |   |                                   MainViewModel$getAllMovies$subscription$1.dex
+    |   |   |   |                                   MainViewModel$getAllMovies$subscription$2.dex
+    |   |   |   |                                   MainViewModel$mealSubscription$1$1.dex
+    |   |   |   |                                   MainViewModel$mealSubscription$1.dex
+    |   |   |   |                                   MainViewModel$mealSubscription$2.dex
+    |   |   |   |                                   MainViewModel$mealSubscription$3.dex
+    |   |   |   |                                   MainViewModel$subscription$1$1.dex
+    |   |   |   |                                   MainViewModel$subscription$1.dex
+    |   |   |   |                                   MainViewModel$subscription$2.dex
+    |   |   |   |                                   MainViewModel$subscription$3.dex
+    |   |   |   |                                   MainViewModel.dex
+    |   |   |   |                                   
+    |   |   |   +---res
+    |   |   |   |   \---merged
+    |   |   |   |       \---debug
+    |   |   |   |               drawable-v24_ic_launcher_foreground.xml.flat
+    |   |   |   |               drawable_ic_launcher_background.xml.flat
+    |   |   |   |               layout_activity_main.xml.flat
+    |   |   |   |               layout_fragment_input.xml.flat
+    |   |   |   |               layout_fragment_list.xml.flat
+    |   |   |   |               layout_layout_item_meal.xml.flat
+    |   |   |   |               layout_layout_item_movie.xml.flat
+    |   |   |   |               mipmap-anydpi-v26_ic_launcher.xml.flat
+    |   |   |   |               mipmap-anydpi-v26_ic_launcher_round.xml.flat
+    |   |   |   |               mipmap-hdpi_ic_launcher.png.flat
+    |   |   |   |               mipmap-hdpi_ic_launcher_round.png.flat
+    |   |   |   |               mipmap-mdpi_ic_launcher.png.flat
+    |   |   |   |               mipmap-mdpi_ic_launcher_round.png.flat
+    |   |   |   |               mipmap-xhdpi_ic_launcher.png.flat
+    |   |   |   |               mipmap-xhdpi_ic_launcher_round.png.flat
+    |   |   |   |               mipmap-xxhdpi_ic_launcher.png.flat
+    |   |   |   |               mipmap-xxhdpi_ic_launcher_round.png.flat
+    |   |   |   |               mipmap-xxxhdpi_ic_launcher.png.flat
+    |   |   |   |               mipmap-xxxhdpi_ic_launcher_round.png.flat
+    |   |   |   |               values-af_values-af.arsc.flat
+    |   |   |   |               values-am_values-am.arsc.flat
+    |   |   |   |               values-ar_values-ar.arsc.flat
+    |   |   |   |               values-as_values-as.arsc.flat
+    |   |   |   |               values-az_values-az.arsc.flat
+    |   |   |   |               values-b+es+419_values-b+es+419.arsc.flat
+    |   |   |   |               values-b+sr+Latn_values-b+sr+Latn.arsc.flat
+    |   |   |   |               values-be_values-be.arsc.flat
+    |   |   |   |               values-bg_values-bg.arsc.flat
+    |   |   |   |               values-bn_values-bn.arsc.flat
+    |   |   |   |               values-bs_values-bs.arsc.flat
+    |   |   |   |               values-ca_values-ca.arsc.flat
+    |   |   |   |               values-cs_values-cs.arsc.flat
+    |   |   |   |               values-da_values-da.arsc.flat
+    |   |   |   |               values-de_values-de.arsc.flat
+    |   |   |   |               values-el_values-el.arsc.flat
+    |   |   |   |               values-en-rAU_values-en-rAU.arsc.flat
+    |   |   |   |               values-en-rCA_values-en-rCA.arsc.flat
+    |   |   |   |               values-en-rGB_values-en-rGB.arsc.flat
+    |   |   |   |               values-en-rIN_values-en-rIN.arsc.flat
+    |   |   |   |               values-en-rXC_values-en-rXC.arsc.flat
+    |   |   |   |               values-es-rUS_values-es-rUS.arsc.flat
+    |   |   |   |               values-es_values-es.arsc.flat
+    |   |   |   |               values-et_values-et.arsc.flat
+    |   |   |   |               values-eu_values-eu.arsc.flat
+    |   |   |   |               values-fa_values-fa.arsc.flat
+    |   |   |   |               values-fi_values-fi.arsc.flat
+    |   |   |   |               values-fr-rCA_values-fr-rCA.arsc.flat
+    |   |   |   |               values-fr_values-fr.arsc.flat
+    |   |   |   |               values-gl_values-gl.arsc.flat
+    |   |   |   |               values-gu_values-gu.arsc.flat
+    |   |   |   |               values-h320dp-port-v13_values-h320dp-port-v13.arsc.flat
+    |   |   |   |               values-h360dp-land-v13_values-h360dp-land-v13.arsc.flat
+    |   |   |   |               values-h480dp-land-v13_values-h480dp-land-v13.arsc.flat
+    |   |   |   |               values-h550dp-port-v13_values-h550dp-port-v13.arsc.flat
+    |   |   |   |               values-h720dp-v13_values-h720dp-v13.arsc.flat
+    |   |   |   |               values-hdpi-v4_values-hdpi-v4.arsc.flat
+    |   |   |   |               values-hi_values-hi.arsc.flat
+    |   |   |   |               values-hr_values-hr.arsc.flat
+    |   |   |   |               values-hu_values-hu.arsc.flat
+    |   |   |   |               values-hy_values-hy.arsc.flat
+    |   |   |   |               values-in_values-in.arsc.flat
+    |   |   |   |               values-is_values-is.arsc.flat
+    |   |   |   |               values-it_values-it.arsc.flat
+    |   |   |   |               values-iw_values-iw.arsc.flat
+    |   |   |   |               values-ja_values-ja.arsc.flat
+    |   |   |   |               values-ka_values-ka.arsc.flat
+    |   |   |   |               values-kk_values-kk.arsc.flat
+    |   |   |   |               values-km_values-km.arsc.flat
+    |   |   |   |               values-kn_values-kn.arsc.flat
+    |   |   |   |               values-ko_values-ko.arsc.flat
+    |   |   |   |               values-ky_values-ky.arsc.flat
+    |   |   |   |               values-land_values-land.arsc.flat
+    |   |   |   |               values-large-v4_values-large-v4.arsc.flat
+    |   |   |   |               values-ldltr-v21_values-ldltr-v21.arsc.flat
+    |   |   |   |               values-ldrtl-v17_values-ldrtl-v17.arsc.flat
+    |   |   |   |               values-lo_values-lo.arsc.flat
+    |   |   |   |               values-lt_values-lt.arsc.flat
+    |   |   |   |               values-lv_values-lv.arsc.flat
+    |   |   |   |               values-mk_values-mk.arsc.flat
+    |   |   |   |               values-ml_values-ml.arsc.flat
+    |   |   |   |               values-mn_values-mn.arsc.flat
+    |   |   |   |               values-mr_values-mr.arsc.flat
+    |   |   |   |               values-ms_values-ms.arsc.flat
+    |   |   |   |               values-my_values-my.arsc.flat
+    |   |   |   |               values-nb_values-nb.arsc.flat
+    |   |   |   |               values-ne_values-ne.arsc.flat
+    |   |   |   |               values-night-v8_values-night-v8.arsc.flat
+    |   |   |   |               values-nl_values-nl.arsc.flat
+    |   |   |   |               values-or_values-or.arsc.flat
+    |   |   |   |               values-pa_values-pa.arsc.flat
+    |   |   |   |               values-pl_values-pl.arsc.flat
+    |   |   |   |               values-port_values-port.arsc.flat
+    |   |   |   |               values-pt-rBR_values-pt-rBR.arsc.flat
+    |   |   |   |               values-pt-rPT_values-pt-rPT.arsc.flat
+    |   |   |   |               values-pt_values-pt.arsc.flat
+    |   |   |   |               values-ro_values-ro.arsc.flat
+    |   |   |   |               values-ru_values-ru.arsc.flat
+    |   |   |   |               values-si_values-si.arsc.flat
+    |   |   |   |               values-sk_values-sk.arsc.flat
+    |   |   |   |               values-sl_values-sl.arsc.flat
+    |   |   |   |               values-small-v4_values-small-v4.arsc.flat
+    |   |   |   |               values-sq_values-sq.arsc.flat
+    |   |   |   |               values-sr_values-sr.arsc.flat
+    |   |   |   |               values-sv_values-sv.arsc.flat
+    |   |   |   |               values-sw600dp-v13_values-sw600dp-v13.arsc.flat
+    |   |   |   |               values-sw_values-sw.arsc.flat
+    |   |   |   |               values-ta_values-ta.arsc.flat
+    |   |   |   |               values-te_values-te.arsc.flat
+    |   |   |   |               values-th_values-th.arsc.flat
+    |   |   |   |               values-tl_values-tl.arsc.flat
+    |   |   |   |               values-tr_values-tr.arsc.flat
+    |   |   |   |               values-uk_values-uk.arsc.flat
+    |   |   |   |               values-ur_values-ur.arsc.flat
+    |   |   |   |               values-uz_values-uz.arsc.flat
+    |   |   |   |               values-v16_values-v16.arsc.flat
+    |   |   |   |               values-v17_values-v17.arsc.flat
+    |   |   |   |               values-v18_values-v18.arsc.flat
+    |   |   |   |               values-v21_values-v21.arsc.flat
+    |   |   |   |               values-v22_values-v22.arsc.flat
+    |   |   |   |               values-v23_values-v23.arsc.flat
+    |   |   |   |               values-v24_values-v24.arsc.flat
+    |   |   |   |               values-v25_values-v25.arsc.flat
+    |   |   |   |               values-v26_values-v26.arsc.flat
+    |   |   |   |               values-v28_values-v28.arsc.flat
+    |   |   |   |               values-v31_values-v31.arsc.flat
+    |   |   |   |               values-vi_values-vi.arsc.flat
+    |   |   |   |               values-w320dp-land-v13_values-w320dp-land-v13.arsc.flat
+    |   |   |   |               values-w360dp-port-v13_values-w360dp-port-v13.arsc.flat
+    |   |   |   |               values-w480dp-port-v13_values-w480dp-port-v13.arsc.flat
+    |   |   |   |               values-w600dp-land-v13_values-w600dp-land-v13.arsc.flat
+    |   |   |   |               values-watch-v20_values-watch-v20.arsc.flat
+    |   |   |   |               values-watch-v21_values-watch-v21.arsc.flat
+    |   |   |   |               values-xlarge-v4_values-xlarge-v4.arsc.flat
+    |   |   |   |               values-zh-rCN_values-zh-rCN.arsc.flat
+    |   |   |   |               values-zh-rHK_values-zh-rHK.arsc.flat
+    |   |   |   |               values-zh-rTW_values-zh-rTW.arsc.flat
+    |   |   |   |               values-zu_values-zu.arsc.flat
+    |   |   |   |               values_values.arsc.flat
+    |   |   |   |               
+    |   |   |   +---runtime_symbol_list
+    |   |   |   |   \---debug
+    |   |   |   |           R.txt
+    |   |   |   |           
+    |   |   |   +---sub_project_dex_archive
+    |   |   |   |   \---debug
+    |   |   |   |       \---out
+    |   |   |   +---symbol_list_with_package_name
+    |   |   |   |   \---debug
+    |   |   |   |           package-aware-r.txt
+    |   |   |   |           
+    |   |   |   \---validate_signing_config
+    |   |   |       \---debug
+    |   |   +---kotlin
+    |   |   |   +---compileDebugKotlin
+    |   |   |   |   |   build-history.bin
+    |   |   |   |   |   last-build.bin
+    |   |   |   |   |   
+    |   |   |   |   \---caches-jvm
+    |   |   |   |       +---inputs
+    |   |   |   |       |       source-to-output.tab
+    |   |   |   |       |       source-to-output.tab.keystream
+    |   |   |   |       |       source-to-output.tab.keystream.len
+    |   |   |   |       |       source-to-output.tab.len
+    |   |   |   |       |       source-to-output.tab.values.at
+    |   |   |   |       |       source-to-output.tab_i
+    |   |   |   |       |       source-to-output.tab_i.len
+    |   |   |   |       |       
+    |   |   |   |       +---jvm
+    |   |   |   |       |   \---kotlin
+    |   |   |   |       |           class-attributes.tab
+    |   |   |   |       |           class-attributes.tab.keystream
+    |   |   |   |       |           class-attributes.tab.keystream.len
+    |   |   |   |       |           class-attributes.tab.len
+    |   |   |   |       |           class-attributes.tab.values.at
+    |   |   |   |       |           class-attributes.tab_i
+    |   |   |   |       |           class-attributes.tab_i.len
+    |   |   |   |       |           class-fq-name-to-source.tab
+    |   |   |   |       |           class-fq-name-to-source.tab.keystream
+    |   |   |   |       |           class-fq-name-to-source.tab.keystream.len
+    |   |   |   |       |           class-fq-name-to-source.tab.len
+    |   |   |   |       |           class-fq-name-to-source.tab.values.at
+    |   |   |   |       |           class-fq-name-to-source.tab_i
+    |   |   |   |       |           class-fq-name-to-source.tab_i.len
+    |   |   |   |       |           constants.tab
+    |   |   |   |       |           constants.tab.keystream
+    |   |   |   |       |           constants.tab.keystream.len
+    |   |   |   |       |           constants.tab.len
+    |   |   |   |       |           constants.tab.values.at
+    |   |   |   |       |           constants.tab_i
+    |   |   |   |       |           constants.tab_i.len
+    |   |   |   |       |           inline-functions.tab
+    |   |   |   |       |           inline-functions.tab.keystream
+    |   |   |   |       |           inline-functions.tab.keystream.len
+    |   |   |   |       |           inline-functions.tab.len
+    |   |   |   |       |           inline-functions.tab.values.at
+    |   |   |   |       |           inline-functions.tab_i
+    |   |   |   |       |           inline-functions.tab_i.len
+    |   |   |   |       |           internal-name-to-source.tab
+    |   |   |   |       |           internal-name-to-source.tab.keystream
+    |   |   |   |       |           internal-name-to-source.tab.keystream.len
+    |   |   |   |       |           internal-name-to-source.tab.len
+    |   |   |   |       |           internal-name-to-source.tab.values.at
+    |   |   |   |       |           internal-name-to-source.tab_i
+    |   |   |   |       |           internal-name-to-source.tab_i.len
+    |   |   |   |       |           java-sources-proto-map.tab
+    |   |   |   |       |           java-sources-proto-map.tab.keystream
+    |   |   |   |       |           java-sources-proto-map.tab.keystream.len
+    |   |   |   |       |           java-sources-proto-map.tab.len
+    |   |   |   |       |           java-sources-proto-map.tab.values.at
+    |   |   |   |       |           java-sources-proto-map.tab_i
+    |   |   |   |       |           java-sources-proto-map.tab_i.len
+    |   |   |   |       |           package-parts.tab
+    |   |   |   |       |           package-parts.tab.keystream
+    |   |   |   |       |           package-parts.tab.keystream.len
+    |   |   |   |       |           package-parts.tab.len
+    |   |   |   |       |           package-parts.tab.values.at
+    |   |   |   |       |           package-parts.tab_i
+    |   |   |   |       |           package-parts.tab_i.len
+    |   |   |   |       |           proto.tab
+    |   |   |   |       |           proto.tab.keystream
+    |   |   |   |       |           proto.tab.keystream.len
+    |   |   |   |       |           proto.tab.len
+    |   |   |   |       |           proto.tab.values
+    |   |   |   |       |           proto.tab.values.at
+    |   |   |   |       |           proto.tab.values.s
+    |   |   |   |       |           proto.tab_i
+    |   |   |   |       |           proto.tab_i.len
+    |   |   |   |       |           source-to-classes.tab
+    |   |   |   |       |           source-to-classes.tab.keystream
+    |   |   |   |       |           source-to-classes.tab.keystream.len
+    |   |   |   |       |           source-to-classes.tab.len
+    |   |   |   |       |           source-to-classes.tab.values.at
+    |   |   |   |       |           source-to-classes.tab_i
+    |   |   |   |       |           source-to-classes.tab_i.len
+    |   |   |   |       |           subtypes.tab
+    |   |   |   |       |           subtypes.tab.keystream
+    |   |   |   |       |           subtypes.tab.keystream.len
+    |   |   |   |       |           subtypes.tab.len
+    |   |   |   |       |           subtypes.tab.values.at
+    |   |   |   |       |           subtypes.tab_i
+    |   |   |   |       |           subtypes.tab_i.len
+    |   |   |   |       |           supertypes.tab
+    |   |   |   |       |           supertypes.tab.keystream
+    |   |   |   |       |           supertypes.tab.keystream.len
+    |   |   |   |       |           supertypes.tab.len
+    |   |   |   |       |           supertypes.tab.values.at
+    |   |   |   |       |           supertypes.tab_i
+    |   |   |   |       |           supertypes.tab_i.len
+    |   |   |   |       |           
+    |   |   |   |       \---lookups
+    |   |   |   |               counters.tab
+    |   |   |   |               file-to-id.tab
+    |   |   |   |               file-to-id.tab.keystream
+    |   |   |   |               file-to-id.tab.keystream.len
+    |   |   |   |               file-to-id.tab.len
+    |   |   |   |               file-to-id.tab.values.at
+    |   |   |   |               file-to-id.tab_i
+    |   |   |   |               file-to-id.tab_i.len
+    |   |   |   |               id-to-file.tab
+    |   |   |   |               id-to-file.tab.keystream
+    |   |   |   |               id-to-file.tab.keystream.len
+    |   |   |   |               id-to-file.tab.len
+    |   |   |   |               id-to-file.tab.values.at
+    |   |   |   |               id-to-file.tab_i
+    |   |   |   |               id-to-file.tab_i.len
+    |   |   |   |               lookups.tab
+    |   |   |   |               lookups.tab.keystream
+    |   |   |   |               lookups.tab.keystream.len
+    |   |   |   |               lookups.tab.len
+    |   |   |   |               lookups.tab.values
+    |   |   |   |               lookups.tab.values.at
+    |   |   |   |               lookups.tab.values.s
+    |   |   |   |               lookups.tab_i
+    |   |   |   |               lookups.tab_i.len
+    |   |   |   |               
+    |   |   |   \---kaptGenerateStubsDebugKotlin
+    |   |   |       |   build-history.bin
+    |   |   |       |   last-build.bin
+    |   |   |       |   
+    |   |   |       \---caches-jvm
+    |   |   |           +---inputs
+    |   |   |           |       source-to-output.tab
+    |   |   |           |       source-to-output.tab.keystream
+    |   |   |           |       source-to-output.tab.keystream.len
+    |   |   |           |       source-to-output.tab.len
+    |   |   |           |       source-to-output.tab.values
+    |   |   |           |       source-to-output.tab.values.at
+    |   |   |           |       source-to-output.tab.values.s
+    |   |   |           |       source-to-output.tab_i
+    |   |   |           |       source-to-output.tab_i.len
+    |   |   |           |       
+    |   |   |           +---jvm
+    |   |   |           |   \---kotlin
+    |   |   |           |           class-attributes.tab
+    |   |   |           |           class-attributes.tab.keystream
+    |   |   |           |           class-attributes.tab.keystream.len
+    |   |   |           |           class-attributes.tab.len
+    |   |   |           |           class-attributes.tab.values.at
+    |   |   |           |           class-attributes.tab_i
+    |   |   |           |           class-attributes.tab_i.len
+    |   |   |           |           class-fq-name-to-source.tab
+    |   |   |           |           class-fq-name-to-source.tab.keystream
+    |   |   |           |           class-fq-name-to-source.tab.keystream.len
+    |   |   |           |           class-fq-name-to-source.tab.len
+    |   |   |           |           class-fq-name-to-source.tab.values.at
+    |   |   |           |           class-fq-name-to-source.tab_i
+    |   |   |           |           class-fq-name-to-source.tab_i.len
+    |   |   |           |           constants.tab
+    |   |   |           |           constants.tab.keystream
+    |   |   |           |           constants.tab.keystream.len
+    |   |   |           |           constants.tab.len
+    |   |   |           |           constants.tab.values.at
+    |   |   |           |           constants.tab_i
+    |   |   |           |           constants.tab_i.len
+    |   |   |           |           inline-functions.tab
+    |   |   |           |           inline-functions.tab.keystream
+    |   |   |           |           inline-functions.tab.keystream.len
+    |   |   |           |           inline-functions.tab.len
+    |   |   |           |           inline-functions.tab.values.at
+    |   |   |           |           inline-functions.tab_i
+    |   |   |           |           inline-functions.tab_i.len
+    |   |   |           |           internal-name-to-source.tab
+    |   |   |           |           internal-name-to-source.tab.keystream
+    |   |   |           |           internal-name-to-source.tab.keystream.len
+    |   |   |           |           internal-name-to-source.tab.len
+    |   |   |           |           internal-name-to-source.tab.values.at
+    |   |   |           |           internal-name-to-source.tab_i
+    |   |   |           |           internal-name-to-source.tab_i.len
+    |   |   |           |           java-sources-proto-map.tab
+    |   |   |           |           java-sources-proto-map.tab.keystream
+    |   |   |           |           java-sources-proto-map.tab.keystream.len
+    |   |   |           |           java-sources-proto-map.tab.len
+    |   |   |           |           java-sources-proto-map.tab.values.at
+    |   |   |           |           java-sources-proto-map.tab_i
+    |   |   |           |           java-sources-proto-map.tab_i.len
+    |   |   |           |           package-parts.tab
+    |   |   |           |           package-parts.tab.keystream
+    |   |   |           |           package-parts.tab.keystream.len
+    |   |   |           |           package-parts.tab.len
+    |   |   |           |           package-parts.tab.values.at
+    |   |   |           |           package-parts.tab_i
+    |   |   |           |           package-parts.tab_i.len
+    |   |   |           |           proto.tab
+    |   |   |           |           proto.tab.keystream
+    |   |   |           |           proto.tab.keystream.len
+    |   |   |           |           proto.tab.len
+    |   |   |           |           proto.tab.values.at
+    |   |   |           |           proto.tab_i
+    |   |   |           |           proto.tab_i.len
+    |   |   |           |           source-to-classes.tab
+    |   |   |           |           source-to-classes.tab.keystream
+    |   |   |           |           source-to-classes.tab.keystream.len
+    |   |   |           |           source-to-classes.tab.len
+    |   |   |           |           source-to-classes.tab.values.at
+    |   |   |           |           source-to-classes.tab_i
+    |   |   |           |           source-to-classes.tab_i.len
+    |   |   |           |           subtypes.tab
+    |   |   |           |           subtypes.tab.keystream
+    |   |   |           |           subtypes.tab.keystream.len
+    |   |   |           |           subtypes.tab.len
+    |   |   |           |           subtypes.tab.values.at
+    |   |   |           |           subtypes.tab_i
+    |   |   |           |           subtypes.tab_i.len
+    |   |   |           |           supertypes.tab
+    |   |   |           |           supertypes.tab.keystream
+    |   |   |           |           supertypes.tab.keystream.len
+    |   |   |           |           supertypes.tab.len
+    |   |   |           |           supertypes.tab.values.at
+    |   |   |           |           supertypes.tab_i
+    |   |   |           |           supertypes.tab_i.len
+    |   |   |           |           
+    |   |   |           \---lookups
+    |   |   |                   counters.tab
+    |   |   |                   file-to-id.tab
+    |   |   |                   file-to-id.tab.keystream
+    |   |   |                   file-to-id.tab.keystream.len
+    |   |   |                   file-to-id.tab.len
+    |   |   |                   file-to-id.tab.values.at
+    |   |   |                   file-to-id.tab_i
+    |   |   |                   file-to-id.tab_i.len
+    |   |   |                   id-to-file.tab
+    |   |   |                   id-to-file.tab.keystream
+    |   |   |                   id-to-file.tab.keystream.len
+    |   |   |                   id-to-file.tab.len
+    |   |   |                   id-to-file.tab.values.at
+    |   |   |                   id-to-file.tab_i
+    |   |   |                   id-to-file.tab_i.len
+    |   |   |                   lookups.tab
+    |   |   |                   lookups.tab.keystream
+    |   |   |                   lookups.tab.keystream.len
+    |   |   |                   lookups.tab.len
+    |   |   |                   lookups.tab.values.at
+    |   |   |                   lookups.tab_i
+    |   |   |                   lookups.tab_i.len
+    |   |   |                   
+    |   |   +---outputs
+    |   |   |   +---apk
+    |   |   |   |   \---debug
+    |   |   |   |           app-debug.apk
+    |   |   |   |           output-metadata.json
+    |   |   |   |           
+    |   |   |   \---logs
+    |   |   |           manifest-merger-debug-report.txt
+    |   |   |           
+    |   |   \---tmp
+    |   |       +---compileDebugJavaWithJavac
+    |   |       |       source-classes-mapping.txt
+    |   |       |       
+    |   |       +---kapt3
+    |   |       |   +---classes
+    |   |       |   |   \---debug
+    |   |       |   |       \---META-INF
+    |   |       |   |           \---proguard
+    |   |       |   |                   moshi-rs.raf.vezbe11.data.models.AllMealsResponse.pro
+    |   |       |   |                   moshi-rs.raf.vezbe11.data.models.AllMoviesResponse.pro
+    |   |       |   |                   moshi-rs.raf.vezbe11.data.models.MealResponse.pro
+    |   |       |   |                   moshi-rs.raf.vezbe11.data.models.MovieResponse.pro
+    |   |       |   |                   
+    |   |       |   +---incApCache
+    |   |       |   |   \---debug
+    |   |       |   |           ap-classpath-entries.bin
+    |   |       |   |           apt-cache.bin
+    |   |       |   |           classpath-entries.bin
+    |   |       |   |           classpath-structure.bin
+    |   |       |   |           java-cache.bin
+    |   |       |   |           
+    |   |       |   +---incrementalData
+    |   |       |   |   \---debug
+    |   |       |   |       +---META-INF
+    |   |       |   |       |       app_debug.kotlin_module
+    |   |       |   |       |       
+    |   |       |   |       \---rs
+    |   |       |   |           \---raf
+    |   |       |   |               \---vezbe11
+    |   |       |   |                   +---application
+    |   |       |   |                   |       Vezbe11Application.class
+    |   |       |   |                   |       
+    |   |       |   |                   +---data
+    |   |       |   |                   |   +---datasources
+    |   |       |   |                   |   |   +---local
+    |   |       |   |                   |   |   |       MealDao.class
+    |   |       |   |                   |   |   |       MealDataBase.class
+    |   |       |   |                   |   |   |       MovieDao.class
+    |   |       |   |                   |   |   |       MovieDataBase.class
+    |   |       |   |                   |   |   |       
+    |   |       |   |                   |   |   \---remote
+    |   |       |   |                   |   |           MealService$DefaultImpls.class
+    |   |       |   |                   |   |           MealService.class
+    |   |       |   |                   |   |           MovieService$DefaultImpls.class
+    |   |       |   |                   |   |           MovieService.class
+    |   |       |   |                   |   |           
+    |   |       |   |                   |   +---models
+    |   |       |   |                   |   |       AllMealsResponse.class
+    |   |       |   |                   |   |       AllMoviesResponse.class
+    |   |       |   |                   |   |       Meal.class
+    |   |       |   |                   |   |       MealEntity.class
+    |   |       |   |                   |   |       MealResponse.class
+    |   |       |   |                   |   |       Movie.class
+    |   |       |   |                   |   |       MovieEntity.class
+    |   |       |   |                   |   |       MovieResponse.class
+    |   |       |   |                   |   |       Resource$Error.class
+    |   |       |   |                   |   |       Resource$Loading.class
+    |   |       |   |                   |   |       Resource$Success.class
+    |   |       |   |                   |   |       Resource.class
+    |   |       |   |                   |   |       
+    |   |       |   |                   |   \---repositories
+    |   |       |   |                   |           MealRepository.class
+    |   |       |   |                   |           MealRepositoryImpl.class
+    |   |       |   |                   |           MovieRepository.class
+    |   |       |   |                   |           MovieRepositoryImpl.class
+    |   |       |   |                   |           
+    |   |       |   |                   +---modules
+    |   |       |   |                   |       Core_moduleKt.class
+    |   |       |   |                   |       Meal_moduleKt.class
+    |   |       |   |                   |       Movie_moduleKt.class
+    |   |       |   |                   |       
+    |   |       |   |                   \---presentation
+    |   |       |   |                       +---contract
+    |   |       |   |                       |       MainContract$ViewModel.class
+    |   |       |   |                       |       MainContract.class
+    |   |       |   |                       |       
+    |   |       |   |                       +---event
+    |   |       |   |                       |       Event.class
+    |   |       |   |                       |       
+    |   |       |   |                       +---view
+    |   |       |   |                       |   +---activities
+    |   |       |   |                       |   |       MainActivity.class
+    |   |       |   |                       |   |       
+    |   |       |   |                       |   +---adapters
+    |   |       |   |                       |   |       MainPagerAdapter$Companion.class
+    |   |       |   |                       |   |       MainPagerAdapter.class
+    |   |       |   |                       |   |       
+    |   |       |   |                       |   +---fragments
+    |   |       |   |                       |   |       InputFragment.class
+    |   |       |   |                       |   |       ListFragment.class
+    |   |       |   |                       |   |       ListMealFragment.class
+    |   |       |   |                       |   |       
+    |   |       |   |                       |   +---recycler
+    |   |       |   |                       |   |   +---adapter
+    |   |       |   |                       |   |   |       MealAdapter.class
+    |   |       |   |                       |   |   |       MovieAdapter.class
+    |   |       |   |                       |   |   |       
+    |   |       |   |                       |   |   +---diff
+    |   |       |   |                       |   |   |       MealDiffCallBack.class
+    |   |       |   |                       |   |   |       MovieDiffCallback.class
+    |   |       |   |                       |   |   |       
+    |   |       |   |                       |   |   \---viewholder
+    |   |       |   |                       |   |           MealViewHolder.class
+    |   |       |   |                       |   |           MovieViewHolder.class
+    |   |       |   |                       |   |           
+    |   |       |   |                       |   \---states
+    |   |       |   |                       |           AddMealState$Error.class
+    |   |       |   |                       |           AddMealState$Success.class
+    |   |       |   |                       |           AddMealState.class
+    |   |       |   |                       |           AddMovieState$Error.class
+    |   |       |   |                       |           AddMovieState$Success.class
+    |   |       |   |                       |           AddMovieState.class
+    |   |       |   |                       |           MealsState$DataFetched.class
+    |   |       |   |                       |           MealsState$Error.class
+    |   |       |   |                       |           MealsState$Loading.class
+    |   |       |   |                       |           MealsState$Success.class
+    |   |       |   |                       |           MealsState.class
+    |   |       |   |                       |           MoviesState$DataFetched.class
+    |   |       |   |                       |           MoviesState$Error.class
+    |   |       |   |                       |           MoviesState$Loading.class
+    |   |       |   |                       |           MoviesState$Success.class
+    |   |       |   |                       |           MoviesState.class
+    |   |       |   |                       |           
+    |   |       |   |                       \---viewmodel
+    |   |       |   |                               MainViewModel.class
+    |   |       |   |                               
+    |   |       |   \---stubs
+    |   |       |       \---debug
+    |   |       |           +---error
+    |   |       |           |       NonExistentClass.java
+    |   |       |           |       
+    |   |       |           \---rs
+    |   |       |               \---raf
+    |   |       |                   \---vezbe11
+    |   |       |                       +---application
+    |   |       |                       |       Vezbe11Application.java
+    |   |       |                       |       Vezbe11Application.kapt_metadata
+    |   |       |                       |       
+    |   |       |                       +---data
+    |   |       |                       |   +---datasources
+    |   |       |                       |   |   +---local
+    |   |       |                       |   |   |       MealDao.java
+    |   |       |                       |   |   |       MealDao.kapt_metadata
+    |   |       |                       |   |   |       MealDataBase.java
+    |   |       |                       |   |   |       MealDataBase.kapt_metadata
+    |   |       |                       |   |   |       MovieDao.java
+    |   |       |                       |   |   |       MovieDao.kapt_metadata
+    |   |       |                       |   |   |       MovieDataBase.java
+    |   |       |                       |   |   |       MovieDataBase.kapt_metadata
+    |   |       |                       |   |   |       
+    |   |       |                       |   |   \---remote
+    |   |       |                       |   |           MealService.java
+    |   |       |                       |   |           MealService.kapt_metadata
+    |   |       |                       |   |           MovieService.java
+    |   |       |                       |   |           MovieService.kapt_metadata
+    |   |       |                       |   |           
+    |   |       |                       |   +---models
+    |   |       |                       |   |       AllMealsResponse.java
+    |   |       |                       |   |       AllMealsResponse.kapt_metadata
+    |   |       |                       |   |       AllMoviesResponse.java
+    |   |       |                       |   |       AllMoviesResponse.kapt_metadata
+    |   |       |                       |   |       Meal.java
+    |   |       |                       |   |       Meal.kapt_metadata
+    |   |       |                       |   |       MealEntity.java
+    |   |       |                       |   |       MealEntity.kapt_metadata
+    |   |       |                       |   |       MealResponse.java
+    |   |       |                       |   |       MealResponse.kapt_metadata
+    |   |       |                       |   |       Movie.java
+    |   |       |                       |   |       Movie.kapt_metadata
+    |   |       |                       |   |       MovieEntity.java
+    |   |       |                       |   |       MovieEntity.kapt_metadata
+    |   |       |                       |   |       MovieResponse.java
+    |   |       |                       |   |       MovieResponse.kapt_metadata
+    |   |       |                       |   |       Resource.java
+    |   |       |                       |   |       Resource.kapt_metadata
+    |   |       |                       |   |       
+    |   |       |                       |   \---repositories
+    |   |       |                       |           MealRepository.java
+    |   |       |                       |           MealRepository.kapt_metadata
+    |   |       |                       |           MealRepositoryImpl.java
+    |   |       |                       |           MealRepositoryImpl.kapt_metadata
+    |   |       |                       |           MovieRepository.java
+    |   |       |                       |           MovieRepository.kapt_metadata
+    |   |       |                       |           MovieRepositoryImpl.java
+    |   |       |                       |           MovieRepositoryImpl.kapt_metadata
+    |   |       |                       |           
+    |   |       |                       +---modules
+    |   |       |                       |       Core_moduleKt.java
+    |   |       |                       |       Core_moduleKt.kapt_metadata
+    |   |       |                       |       Meal_moduleKt.java
+    |   |       |                       |       Meal_moduleKt.kapt_metadata
+    |   |       |                       |       Movie_moduleKt.java
+    |   |       |                       |       Movie_moduleKt.kapt_metadata
+    |   |       |                       |       
+    |   |       |                       \---presentation
+    |   |       |                           +---contract
+    |   |       |                           |       MainContract.java
+    |   |       |                           |       MainContract.kapt_metadata
+    |   |       |                           |       
+    |   |       |                           +---event
+    |   |       |                           |       Event.java
+    |   |       |                           |       Event.kapt_metadata
+    |   |       |                           |       
+    |   |       |                           +---view
+    |   |       |                           |   +---activities
+    |   |       |                           |   |       MainActivity.java
+    |   |       |                           |   |       MainActivity.kapt_metadata
+    |   |       |                           |   |       
+    |   |       |                           |   +---adapters
+    |   |       |                           |   |       MainPagerAdapter.java
+    |   |       |                           |   |       MainPagerAdapter.kapt_metadata
+    |   |       |                           |   |       
+    |   |       |                           |   +---fragments
+    |   |       |                           |   |       InputFragment.java
+    |   |       |                           |   |       InputFragment.kapt_metadata
+    |   |       |                           |   |       ListFragment.java
+    |   |       |                           |   |       ListFragment.kapt_metadata
+    |   |       |                           |   |       ListMealFragment.java
+    |   |       |                           |   |       ListMealFragment.kapt_metadata
+    |   |       |                           |   |       
+    |   |       |                           |   +---recycler
+    |   |       |                           |   |   +---adapter
+    |   |       |                           |   |   |       MealAdapter.java
+    |   |       |                           |   |   |       MealAdapter.kapt_metadata
+    |   |       |                           |   |   |       MovieAdapter.java
+    |   |       |                           |   |   |       MovieAdapter.kapt_metadata
+    |   |       |                           |   |   |       
+    |   |       |                           |   |   +---diff
+    |   |       |                           |   |   |       MealDiffCallBack.java
+    |   |       |                           |   |   |       MealDiffCallBack.kapt_metadata
+    |   |       |                           |   |   |       MovieDiffCallback.java
+    |   |       |                           |   |   |       MovieDiffCallback.kapt_metadata
+    |   |       |                           |   |   |       
+    |   |       |                           |   |   \---viewholder
+    |   |       |                           |   |           MealViewHolder.java
+    |   |       |                           |   |           MealViewHolder.kapt_metadata
+    |   |       |                           |   |           MovieViewHolder.java
+    |   |       |                           |   |           MovieViewHolder.kapt_metadata
+    |   |       |                           |   |           
+    |   |       |                           |   \---states
+    |   |       |                           |           AddMealState.java
+    |   |       |                           |           AddMealState.kapt_metadata
+    |   |       |                           |           AddMovieState.java
+    |   |       |                           |           AddMovieState.kapt_metadata
+    |   |       |                           |           MealsState.java
+    |   |       |                           |           MealsState.kapt_metadata
+    |   |       |                           |           MoviesState.java
+    |   |       |                           |           MoviesState.kapt_metadata
+    |   |       |                           |           
+    |   |       |                           \---viewmodel
+    |   |       |                                   MainViewModel.java
+    |   |       |                                   MainViewModel.kapt_metadata
+    |   |       |                                   
+    |   |       \---kotlin-classes
+    |   |           \---debug
+    |   |               +---META-INF
+    |   |               |       app_debug.kotlin_module
+    |   |               |       
+    |   |               \---rs
+    |   |                   \---raf
+    |   |                       \---vezbe11
+    |   |                           +---application
+    |   |                           |       Vezbe11Application$initKoin$1.class
+    |   |                           |       Vezbe11Application.class
+    |   |                           |       
+    |   |                           +---data
+    |   |                           |   +---datasources
+    |   |                           |   |   +---local
+    |   |                           |   |   |       MealDao.class
+    |   |                           |   |   |       MealDataBase.class
+    |   |                           |   |   |       MovieDao.class
+    |   |                           |   |   |       MovieDataBase.class
+    |   |                           |   |   |       
+    |   |                           |   |   \---remote
+    |   |                           |   |           MealService$DefaultImpls.class
+    |   |                           |   |           MealService.class
+    |   |                           |   |           MovieService$DefaultImpls.class
+    |   |                           |   |           MovieService.class
+    |   |                           |   |           
+    |   |                           |   +---models
+    |   |                           |   |       AllMealsResponse.class
+    |   |                           |   |       AllMealsResponseJsonAdapter.class
+    |   |                           |   |       AllMoviesResponse.class
+    |   |                           |   |       AllMoviesResponseJsonAdapter.class
+    |   |                           |   |       Meal.class
+    |   |                           |   |       MealEntity.class
+    |   |                           |   |       MealResponse.class
+    |   |                           |   |       MealResponseJsonAdapter.class
+    |   |                           |   |       Movie.class
+    |   |                           |   |       MovieEntity.class
+    |   |                           |   |       MovieResponse.class
+    |   |                           |   |       MovieResponseJsonAdapter.class
+    |   |                           |   |       Resource$Error.class
+    |   |                           |   |       Resource$Loading.class
+    |   |                           |   |       Resource$Success.class
+    |   |                           |   |       Resource.class
+    |   |                           |   |       
+    |   |                           |   \---repositories
+    |   |                           |           MealRepository.class
+    |   |                           |           MealRepositoryImpl$fetchAll$1.class
+    |   |                           |           MealRepositoryImpl$fetchAll$2.class
+    |   |                           |           MealRepositoryImpl$getAll$1.class
+    |   |                           |           MealRepositoryImpl$getAllByName$1.class
+    |   |                           |           MealRepositoryImpl.class
+    |   |                           |           MovieRepository.class
+    |   |                           |           MovieRepositoryImpl$fetchAll$1.class
+    |   |                           |           MovieRepositoryImpl$fetchAll$2.class
+    |   |                           |           MovieRepositoryImpl$getAll$1.class
+    |   |                           |           MovieRepositoryImpl$getAllByName$1.class
+    |   |                           |           MovieRepositoryImpl.class
+    |   |                           |           
+    |   |                           +---modules
+    |   |                           |       Core_moduleKt$coreModule$1$1.class
+    |   |                           |       Core_moduleKt$coreModule$1$2.class
+    |   |                           |       Core_moduleKt$coreModule$1$3.class
+    |   |                           |       Core_moduleKt$coreModule$1$4.class
+    |   |                           |       Core_moduleKt$coreModule$1$5.class
+    |   |                           |       Core_moduleKt$coreModule$1$6.class
+    |   |                           |       Core_moduleKt$coreModule$1$7.class
+    |   |                           |       Core_moduleKt$coreModule$1$8.class
+    |   |                           |       Core_moduleKt$coreModule$1.class
+    |   |                           |       Core_moduleKt.class
+    |   |                           |       Meal_moduleKt$mealModule$1$1.class
+    |   |                           |       Meal_moduleKt$mealModule$1$2.class
+    |   |                           |       Meal_moduleKt$mealModule$1$3.class
+    |   |                           |       Meal_moduleKt$mealModule$1.class
+    |   |                           |       Meal_moduleKt.class
+    |   |                           |       Movie_moduleKt$movieModule$1$1.class
+    |   |                           |       Movie_moduleKt$movieModule$1$2.class
+    |   |                           |       Movie_moduleKt$movieModule$1$3.class
+    |   |                           |       Movie_moduleKt$movieModule$1.class
+    |   |                           |       Movie_moduleKt.class
+    |   |                           |       
+    |   |                           \---presentation
+    |   |                               +---contract
+    |   |                               |       MainContract$ViewModel.class
+    |   |                               |       MainContract.class
+    |   |                               |       
+    |   |                               +---event
+    |   |                               |       Event.class
+    |   |                               |       
+    |   |                               +---view
+    |   |                               |   +---activities
+    |   |                               |   |       MainActivity.class
+    |   |                               |   |       
+    |   |                               |   +---adapters
+    |   |                               |   |       MainPagerAdapter$Companion.class
+    |   |                               |   |       MainPagerAdapter.class
+    |   |                               |   |       
+    |   |                               |   +---fragments
+    |   |                               |   |       InputFragment$$special$$inlined$sharedViewModel$1.class
+    |   |                               |   |       InputFragment$initObservers$1.class
+    |   |                               |   |       InputFragment$initUi$1.class
+    |   |                               |   |       InputFragment.class
+    |   |                               |   |       ListFragment$$special$$inlined$sharedViewModel$1.class
+    |   |                               |   |       ListFragment$initListeners$$inlined$doAfterTextChanged$1.class
+    |   |                               |   |       ListFragment$initObservers$1.class
+    |   |                               |   |       ListFragment.class
+    |   |                               |   |       ListMealFragment$$special$$inlined$sharedViewModel$1.class
+    |   |                               |   |       ListMealFragment$initListeners$$inlined$doAfterTextChanged$1.class
+    |   |                               |   |       ListMealFragment$initObservers$1.class
+    |   |                               |   |       ListMealFragment.class
+    |   |                               |   |       
+    |   |                               |   +---recycler
+    |   |                               |   |   +---adapter
+    |   |                               |   |   |       MealAdapter.class
+    |   |                               |   |   |       MovieAdapter.class
+    |   |                               |   |   |       
+    |   |                               |   |   +---diff
+    |   |                               |   |   |       MealDiffCallBack.class
+    |   |                               |   |   |       MovieDiffCallback.class
+    |   |                               |   |   |       
+    |   |                               |   |   \---viewholder
+    |   |                               |   |           MealViewHolder.class
+    |   |                               |   |           MovieViewHolder.class
+    |   |                               |   |           
+    |   |                               |   \---states
+    |   |                               |           AddMealState$Error.class
+    |   |                               |           AddMealState$Success.class
+    |   |                               |           AddMealState.class
+    |   |                               |           AddMovieState$Error.class
+    |   |                               |           AddMovieState$Success.class
+    |   |                               |           AddMovieState.class
+    |   |                               |           MealsState$DataFetched.class
+    |   |                               |           MealsState$Error.class
+    |   |                               |           MealsState$Loading.class
+    |   |                               |           MealsState$Success.class
+    |   |                               |           MealsState.class
+    |   |                               |           MoviesState$DataFetched.class
+    |   |                               |           MoviesState$Error.class
+    |   |                               |           MoviesState$Loading.class
+    |   |                               |           MoviesState$Success.class
+    |   |                               |           MoviesState.class
+    |   |                               |           
+    |   |                               \---viewmodel
+    |   |                                       MainViewModel$addMeal$subscription$1.class
+    |   |                                       MainViewModel$addMeal$subscription$2.class
+    |   |                                       MainViewModel$addMovie$subscription$1.class
+    |   |                                       MainViewModel$addMovie$subscription$2.class
+    |   |                                       MainViewModel$fetchAllMeals$subscription$1.class
+    |   |                                       MainViewModel$fetchAllMeals$subscription$2.class
+    |   |                                       MainViewModel$fetchAllMovies$subscription$1.class
+    |   |                                       MainViewModel$fetchAllMovies$subscription$2.class
+    |   |                                       MainViewModel$getAllMeals$subscription$1.class
+    |   |                                       MainViewModel$getAllMeals$subscription$2.class
+    |   |                                       MainViewModel$getAllMovies$subscription$1.class
+    |   |                                       MainViewModel$getAllMovies$subscription$2.class
+    |   |                                       MainViewModel$mealSubscription$1$1.class
+    |   |                                       MainViewModel$mealSubscription$1.class
+    |   |                                       MainViewModel$mealSubscription$2.class
+    |   |                                       MainViewModel$mealSubscription$3.class
+    |   |                                       MainViewModel$subscription$1$1.class
+    |   |                                       MainViewModel$subscription$1.class
+    |   |                                       MainViewModel$subscription$2.class
+    |   |                                       MainViewModel$subscription$3.class
+    |   |                                       MainViewModel.class
+    |   |                                       
+    |   +---libs
+    |   \---src
+    |       +---androidTest
+    |       |   \---java
+    |       |       \---rs
+    |       |           \---raf
+    |       |               \---vezbe11
+    |       |                       ExampleInstrumentedTest.kt
+    |       |                       
+    |       +---main
+    |       |   |   AndroidManifest.xml
+    |       |   |   
+    |       |   +---java
+    |       |   |   \---rs
+    |       |   |       \---raf
+    |       |   |           \---vezbe11
+    |       |   |               +---application
+    |       |   |               |       Vezbe11Application.kt
+    |       |   |               |       
+    |       |   |               +---data
+    |       |   |               |   +---datasources
+    |       |   |               |   |   +---local
+    |       |   |               |   |   |       MealDao.kt
+    |       |   |               |   |   |       MealDataBase.kt
+    |       |   |               |   |   |       MovieDao.kt
+    |       |   |               |   |   |       MovieDataBase.kt
+    |       |   |               |   |   |       
+    |       |   |               |   |   \---remote
+    |       |   |               |   |           MealService.kt
+    |       |   |               |   |           MovieService.kt
+    |       |   |               |   |           
+    |       |   |               |   +---models
+    |       |   |               |   |       AllMealsResponse.kt
+    |       |   |               |   |       AllMoviesResponse.kt
+    |       |   |               |   |       Meal.kt
+    |       |   |               |   |       MealEntity.kt
+    |       |   |               |   |       MealResponse.kt
+    |       |   |               |   |       Movie.kt
+    |       |   |               |   |       MovieEntity.kt
+    |       |   |               |   |       MovieResponse.kt
+    |       |   |               |   |       Resource.kt
+    |       |   |               |   |       
+    |       |   |               |   \---repositories
+    |       |   |               |           MealRepository.kt
+    |       |   |               |           MealRepositoryImpl.kt
+    |       |   |               |           MovieRepository.kt
+    |       |   |               |           MovieRepositoryImpl.kt
+    |       |   |               |           
+    |       |   |               +---modules
+    |       |   |               |       core_module.kt
+    |       |   |               |       meal_module.kt
+    |       |   |               |       movie_module.kt
+    |       |   |               |       
+    |       |   |               \---presentation
+    |       |   |                   +---contract
+    |       |   |                   |       MainContract.kt
+    |       |   |                   |       
+    |       |   |                   +---event
+    |       |   |                   |       Event.kt
+    |       |   |                   |       
+    |       |   |                   +---view
+    |       |   |                   |   +---activities
+    |       |   |                   |   |       MainActivity.kt
+    |       |   |                   |   |       
+    |       |   |                   |   +---adapters
+    |       |   |                   |   |       MainPagerAdapter.kt
+    |       |   |                   |   |       
+    |       |   |                   |   +---fragments
+    |       |   |                   |   |       InputFragment.kt
+    |       |   |                   |   |       ListFragment.kt
+    |       |   |                   |   |       ListMealFragment.kt
+    |       |   |                   |   |       
+    |       |   |                   |   +---recycler
+    |       |   |                   |   |   +---adapter
+    |       |   |                   |   |   |       MealAdapter.kt
+    |       |   |                   |   |   |       MovieAdapter.kt
+    |       |   |                   |   |   |       
+    |       |   |                   |   |   +---diff
+    |       |   |                   |   |   |       MealDiffCallBack.kt
+    |       |   |                   |   |   |       MovieDiffCallback.kt
+    |       |   |                   |   |   |       
+    |       |   |                   |   |   \---viewholder
+    |       |   |                   |   |           MealViewHolder.kt
+    |       |   |                   |   |           MovieViewHolder.kt
+    |       |   |                   |   |           
+    |       |   |                   |   \---states
+    |       |   |                   |           AddMealState.kt
+    |       |   |                   |           AddMovieState.kt
+    |       |   |                   |           MealsState.kt
+    |       |   |                   |           MoviesState.kt
+    |       |   |                   |           
+    |       |   |                   \---viewmodel
+    |       |   |                           MainViewModel.kt
+    |       |   |                           
+    |       |   \---res
+    |       |       +---drawable
+    |       |       |       ic_launcher_background.xml
+    |       |       |       
+    |       |       +---drawable-v24
+    |       |       |       ic_launcher_foreground.xml
+    |       |       |       
+    |       |       +---layout
+    |       |       |       activity_main.xml
+    |       |       |       fragment_input.xml
+    |       |       |       fragment_list.xml
+    |       |       |       layout_item_meal.xml
+    |       |       |       layout_item_movie.xml
+    |       |       |       
+    |       |       +---mipmap-anydpi-v26
+    |       |       |       ic_launcher.xml
+    |       |       |       ic_launcher_round.xml
+    |       |       |       
+    |       |       +---mipmap-hdpi
+    |       |       |       ic_launcher.png
+    |       |       |       ic_launcher_round.png
+    |       |       |       
+    |       |       +---mipmap-mdpi
+    |       |       |       ic_launcher.png
+    |       |       |       ic_launcher_round.png
+    |       |       |       
+    |       |       +---mipmap-xhdpi
+    |       |       |       ic_launcher.png
+    |       |       |       ic_launcher_round.png
+    |       |       |       
+    |       |       +---mipmap-xxhdpi
+    |       |       |       ic_launcher.png
+    |       |       |       ic_launcher_round.png
+    |       |       |       
+    |       |       +---mipmap-xxxhdpi
+    |       |       |       ic_launcher.png
+    |       |       |       ic_launcher_round.png
+    |       |       |       
+    |       |       +---values
+    |       |       |       colors.xml
+    |       |       |       strings.xml
+    |       |       |       themes.xml
+    |       |       |       
+    |       |       \---values-night
+    |       |               themes.xml
+    |       |               
+    |       \---test
+    |           \---java
+    |               \---rs
+    |                   \---raf
+    |                       \---vezbe11
+    |                               ExampleUnitTest.kt
+    |                               
+    +---build
+    |   \---kotlin
+    |       \---sessions
+    \---gradle
+        \---wrapper
+                gradle-wrapper.jar
+                gradle-wrapper.properties
+                
